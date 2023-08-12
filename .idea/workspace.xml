@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="자료구조 배열 개념">
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/StackTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/bj/bj25556/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +51,13 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\lnearDS_02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Practice3">
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Practice1" />
+  <component name="RunManager" selected="애플리케이션.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.bj.bj25556.Main" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.linearDS_06.*" />
+          <option name="PATTERN" value="codingTest.bj.bj25556.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.StackTest2" />
+    <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Practice4" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.StackTest2" />
+    <configuration name="parctice.linearDS_06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Main" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.parctice.linearDS_06.Main" />
+        <item itemvalue="애플리케이션.Practice4" />
         <item itemvalue="애플리케이션.Practice3" />
         <item itemvalue="애플리케이션.Practice2" />
-        <item itemvalue="애플리케이션.Practice1" />
-        <item itemvalue="애플리케이션.StackTest2" />
-        <item itemvalue="애플리케이션.StackTest2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691638737773</updated>
       <workItem from="1691638738419" duration="10654000" />
-      <workItem from="1691718617804" duration="12576000" />
+      <workItem from="1691718617804" duration="15124000" />
     </task>
     <task id="LOCAL-00001" summary="자료구조 배열 개념">
       <created>1691721119341</created>
@@ -159,13 +145,28 @@
       <option name="project" value="LOCAL" />
       <updated>1691721119341</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="자료구조 스택 개념">
+      <created>1691844873928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691844873928</updated>
+    </task>
+    <task id="LOCAL-00003" summary="자료구조 배열 개념">
+      <created>1691844893803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691844893803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="자료구조 스택 개념" />
     <MESSAGE value="자료구조 배열 개념" />
     <option name="LAST_COMMIT_MESSAGE" value="자료구조 배열 개념" />
   </component>
