@@ -4,22 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_CT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/lnearDS_02/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/lnearDS_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice7.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="자료구조 배열 개념">
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/StackTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/lnearDS_02/Practice7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Practice7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,31 +46,58 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_CT/src/parctice/lnearDS_02&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/냄규/Java_CT/src/parctice/linearDS_06",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_06" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\lnearDS_02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Practice7">
+  <component name="RunManager" selected="애플리케이션.Practice3">
+    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Practice1" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parctice.linearDS_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Practice2" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parctice.linearDS_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.lnearDS_02.Practice3" />
+      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Practice3" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.lnearDS_02.*" />
+          <option name="PATTERN" value="parctice.linearDS_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.lnearDS_02.Practice4" />
+    <configuration name="StackTest2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.StackTest2" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.lnearDS_02.*" />
+          <option name="PATTERN" value="parctice.linearDS_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,38 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.lnearDS_02.Practice5" />
+    <configuration name="StackTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.StackTest2" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.lnearDS_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.lnearDS_02.Practice6" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parctice.lnearDS_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.lnearDS_02.Practice7" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parctice.lnearDS_02.*" />
+          <option name="PATTERN" value="parctice.linearDS_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Practice7" />
-        <item itemvalue="애플리케이션.Practice6" />
-        <item itemvalue="애플리케이션.Practice5" />
-        <item itemvalue="애플리케이션.Practice4" />
         <item itemvalue="애플리케이션.Practice3" />
+        <item itemvalue="애플리케이션.Practice2" />
+        <item itemvalue="애플리케이션.Practice1" />
+        <item itemvalue="애플리케이션.StackTest2" />
+        <item itemvalue="애플리케이션.StackTest2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -147,30 +150,52 @@
       <option name="presentableId" value="Default" />
       <updated>1691638737773</updated>
       <workItem from="1691638738419" duration="10654000" />
-      <workItem from="1691718617804" duration="2242000" />
+      <workItem from="1691718617804" duration="12576000" />
     </task>
+    <task id="LOCAL-00001" summary="자료구조 배열 개념">
+      <created>1691721119341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691721119341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="자료구조 배열 개념" />
+    <option name="LAST_COMMIT_MESSAGE" value="자료구조 배열 개념" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/parctice/lnearDS_02/Practice5.java</url>
+          <url>file://$PROJECT_DIR$/src/parctice/linearDS_02/Practice5.java</url>
           <line>18</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/parctice/lnearDS_02/Practice6.java</url>
+          <url>file://$PROJECT_DIR$/src/parctice/linearDS_02/Practice6.java</url>
           <line>13</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/parctice/lnearDS_02/Practice7.java</url>
-          <line>30</line>
+          <url>file://$PROJECT_DIR$/src/parctice/linearDS_02/Practice7.java</url>
+          <line>31</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/parctice/linearDS_06/StackTest2.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/parctice/linearDS_06/Practice2.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
