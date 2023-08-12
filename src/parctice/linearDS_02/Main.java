@@ -1,4 +1,4 @@
-package parctice.lnearDS_02;// 선형 자료구조 - 배열
+package parctice.linearDS_02;// 선형 자료구조 - 배열
 
 import java.util.ArrayList;
 import java.util.Arrays;

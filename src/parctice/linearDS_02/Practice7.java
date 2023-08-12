@@ -1,4 +1,4 @@
-package parctice.lnearDS_02;// Practice7
+package parctice.linearDS_02;// Practice7
 // 2차원 배열 arr 을 시계방향 90도 회전시킨 결과를 출력하세요.
 
 // 입출력 예시:
@@ -23,6 +23,7 @@ public class Practice7 {
             System.out.println();
         }
     }
+
     public static void main(String[] args) {
         int[][] arr ={{1,2,3,4,5},{6,7,8,9,10},{11,12,13,14,15}};
 

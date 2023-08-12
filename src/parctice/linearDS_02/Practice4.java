@@ -1,4 +1,4 @@
-package parctice.lnearDS_02;// Practice4
+package parctice.linearDS_02;// Practice4
 // 배열 arr 에서 peek 값 모두 출력
 
 // 입출력 예시)

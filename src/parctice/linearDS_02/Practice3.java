@@ -1,4 +1,4 @@
-package parctice.lnearDS_02;// Practice3
+package parctice.linearDS_02;// Practice3
 // 배열 arr 의 데이터 순서를 거꾸로 변경하세요.
 // 추가 배열을 사용하지 않고 구현
 
