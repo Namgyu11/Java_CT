@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="백준 25556 포스택">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="스택 연습문제">
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_09/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_09/Practice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Practice4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,26 +32,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_CT/src/parctice/linearDS_06&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/냄규/Java_practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_09" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_06" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\lnearDS_02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Main">
+  <component name="RunManager" selected="애플리케이션.Practice2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.bj.bj25556.Main" />
       <module name="Java_CT" />
@@ -64,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Practice2" />
+    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_09.Practice1" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.linearDS_06.*" />
+          <option name="PATTERN" value="parctice.linearDS_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Practice3" />
+    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_09.Practice2" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.linearDS_06.*" />
+          <option name="PATTERN" value="parctice.linearDS_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Practice2" />
+        <item itemvalue="애플리케이션.Practice1" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.parctice.linearDS_06.Main" />
         <item itemvalue="애플리케이션.Practice4" />
-        <item itemvalue="애플리케이션.Practice3" />
-        <item itemvalue="애플리케이션.Practice2" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +138,7 @@
       <updated>1691638737773</updated>
       <workItem from="1691638738419" duration="10654000" />
       <workItem from="1691718617804" duration="15740000" />
-      <workItem from="1691913390064" duration="338000" />
+      <workItem from="1691913390064" duration="3705000" />
     </task>
     <task id="LOCAL-00001" summary="자료구조 배열 개념">
       <created>1691721119341</created>
@@ -166,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691850806777</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="스택 연습문제">
+      <created>1691913915427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691913915427</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +185,8 @@
     <MESSAGE value="자료구조 스택 개념" />
     <MESSAGE value="자료구조 배열 개념" />
     <MESSAGE value="백준 25556 포스택" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 25556 포스택" />
+    <MESSAGE value="스택 연습문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="스택 연습문제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
