@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="스택 연습문제">
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_09/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_09/Practice2.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="Queue 연습문제">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +30,19 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/냄규/Java_practice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_09" />
@@ -52,7 +50,7 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\lnearDS_02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Practice2">
+  <component name="RunManager" selected="애플리케이션.Paper">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.bj.bj25556.Main" />
       <module name="Java_CT" />
@@ -62,6 +60,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Paper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Paper" />
+      <module name="Java_CT" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Practice4" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parctice.linearDS_06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="parctice.linearDS_06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="parctice.linearDS_06.Main" />
       <module name="Java_CT" />
@@ -120,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Paper" />
         <item itemvalue="애플리케이션.Practice2" />
         <item itemvalue="애플리케이션.Practice1" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.parctice.linearDS_06.Main" />
-        <item itemvalue="애플리케이션.Practice4" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +130,8 @@
       <updated>1691638737773</updated>
       <workItem from="1691638738419" duration="10654000" />
       <workItem from="1691718617804" duration="15740000" />
-      <workItem from="1691913390064" duration="3705000" />
+      <workItem from="1691913390064" duration="6399000" />
+      <workItem from="1692073716572" duration="2301000" />
     </task>
     <task id="LOCAL-00001" summary="자료구조 배열 개념">
       <created>1691721119341</created>
@@ -175,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691913915427</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Queue 연습문제">
+      <created>1692066097619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692066097619</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +186,8 @@
     <MESSAGE value="자료구조 배열 개념" />
     <MESSAGE value="백준 25556 포스택" />
     <MESSAGE value="스택 연습문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="스택 연습문제" />
+    <MESSAGE value="Queue 연습문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue 연습문제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
