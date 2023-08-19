@@ -1,6 +1,5 @@
-package codingTest.preCT.ct03_04;
+package codingTest.preCT.ct03.ct03_04;
 
-import java.security.PrivilegedAction;
 import java.util.Arrays;
 
 public class solution {

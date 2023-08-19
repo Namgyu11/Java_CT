@@ -1,6 +1,5 @@
-package codingTest.preCT.ct03_02;
+package codingTest.preCT.ct03.ct03_02;
 
-import java.util.AbstractList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;

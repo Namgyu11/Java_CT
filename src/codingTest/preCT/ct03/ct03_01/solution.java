@@ -1,8 +1,6 @@
-package codingTest.preCT.ct03_01;
+package codingTest.preCT.ct03.ct03_01;
 
-import java.util.Arrays;
 import java.util.Stack;
-import java.util.stream.Collectors;
 
 public class solution {
     public static String solution(String s) {
