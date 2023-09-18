@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro - process">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="tree">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/bj/bj10807/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/pro/Intoroductory/oddNum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/pro/arrayTest/stringArr/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/bj/bj09012/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/bj/bj09012/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +58,23 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_10" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Solution">
+  <component name="RunManager" selected="애플리케이션.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java_CT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.bj.bj10807.Main" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.bj.bj10807.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,25 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.bj.bj10818.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.bj.bj10818.Main" />
+    <configuration name="codingTest.pro.Intoroductory.oddNum.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.pro.Intoroductory.oddNum.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.bj.bj10818.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codingTest.pro.hashTest.costumes.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.pro.hashTest.costumes.Solution" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.pro.hashTest.costumes.*" />
+          <option name="PATTERN" value="codingTest.pro.Intoroductory.oddNum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.codingTest.pro.Intoroductory.oddNum.Solution" />
         <item itemvalue="애플리케이션.Solution" />
         <item itemvalue="애플리케이션.codingTest.bj.bj01158.Main" />
         <item itemvalue="애플리케이션.Main (1)" />
-        <item itemvalue="애플리케이션.codingTest.pro.hashTest.costumes.Solution" />
-        <item itemvalue="애플리케이션.codingTest.bj.bj10818.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +157,7 @@
       <workItem from="1694514669539" duration="9565000" />
       <workItem from="1694669896917" duration="736000" />
       <workItem from="1694754964720" duration="13167000" />
-      <workItem from="1694948326366" duration="604000" />
+      <workItem from="1694948326366" duration="9136000" />
     </task>
     <task id="LOCAL-00001" summary="자료구조 배열 개념">
       <created>1691721119341</created>
@@ -339,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694790565133</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="tree">
+      <created>1694950202925</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1694950202925</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +379,8 @@
     <MESSAGE value="pro - 해시 - 의상" />
     <MESSAGE value="bj 01158" />
     <MESSAGE value="pro - process" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro - process" />
+    <MESSAGE value="tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
