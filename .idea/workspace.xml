@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="tree">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/bj/bj10807/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/pro/Intoroductory/oddNum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/pro/arrayTest/stringArr/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro - 짝수는 싫어요">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_01/preCT_01/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_01/preCT_01/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_01/preCT_01/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_01/preCT_01/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_01/preCT_01/ct05/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/bj/bj09012/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/bj/bj09012/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +59,7 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_10" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Java_CT" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.codingTest.preCT_01.preCT_01.ct05.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.bj.bj10807.Main" />
       <module name="Java_CT" />
@@ -79,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.pro.linkedListTest.process.Solution" />
+    <configuration name="codingTest.preCT_01.preCT_01.ct02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_01.preCT_01.ct02.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.pro.linkedListTest.process.*" />
+          <option name="PATTERN" value="codingTest.preCT_01.preCT_01.ct02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.bj.bj01158.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.bj.bj01158.Main" />
+    <configuration name="codingTest.preCT_01.preCT_01.ct04.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_01.preCT_01.ct04.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.bj.bj01158.*" />
+          <option name="PATTERN" value="codingTest.preCT_01.preCT_01.ct04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codingTest.preCT_01.preCT_01.ct05.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_01.preCT_01.ct05.Solution" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.preCT_01.preCT_01.ct05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.codingTest.preCT_01.preCT_01.ct05.Solution" />
+        <item itemvalue="애플리케이션.codingTest.preCT_01.preCT_01.ct04.Solution" />
+        <item itemvalue="애플리케이션.codingTest.preCT_01.preCT_01.ct02.Solution" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.codingTest.pro.Intoroductory.oddNum.Solution" />
-        <item itemvalue="애플리케이션.Solution" />
-        <item itemvalue="애플리케이션.codingTest.bj.bj01158.Main" />
-        <item itemvalue="애플리케이션.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +164,8 @@
       <workItem from="1694514669539" duration="9565000" />
       <workItem from="1694669896917" duration="736000" />
       <workItem from="1694754964720" duration="13167000" />
-      <workItem from="1694948326366" duration="9136000" />
+      <workItem from="1694948326366" duration="9711000" />
+      <workItem from="1695107616569" duration="3936000" />
     </task>
     <task id="LOCAL-00001" summary="자료구조 배열 개념">
       <created>1691721119341</created>
@@ -348,17 +356,41 @@
       <option name="project" value="LOCAL" />
       <updated>1694950202925</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="bj09012 - 스택 괄호">
+      <created>1695048026122</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1695048026122</updated>
+    </task>
+    <task id="LOCAL-00029" summary="bj10807 - 개수 세기">
+      <created>1695048043726</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1695048043726</updated>
+    </task>
+    <task id="LOCAL-00030" summary="pro - 문자열">
+      <created>1695048073549</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1695048073549</updated>
+    </task>
+    <task id="LOCAL-00031" summary="pro - 짝수는 싫어요">
+      <created>1695048090395</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1695048090395</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="자료구조 스택 개념" />
-    <MESSAGE value="자료구조 배열 개념" />
-    <MESSAGE value="백준 25556 포스택" />
-    <MESSAGE value="스택 연습문제" />
     <MESSAGE value="Queue 연습문제" />
     <MESSAGE value="백준 9012" />
     <MESSAGE value="백준 20830" />
@@ -380,7 +412,11 @@
     <MESSAGE value="bj 01158" />
     <MESSAGE value="pro - process" />
     <MESSAGE value="tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="tree" />
+    <MESSAGE value="bj09012 - 스택 괄호" />
+    <MESSAGE value="bj10807 - 개수 세기" />
+    <MESSAGE value="pro - 문자열" />
+    <MESSAGE value="pro - 짝수는 싫어요" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro - 짝수는 싫어요" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
