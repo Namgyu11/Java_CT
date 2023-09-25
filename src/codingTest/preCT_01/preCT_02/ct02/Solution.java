@@ -16,6 +16,13 @@ public class Solution {
         return answer;
 
     }
+    public String[] solution_answer(String s) {
+        String[] strings = s.split("[.,!? ]");
+        return Arrays.stream(strings)
+                .filter(word -> !word.equals(""))
+                .map(word -> new StringBuilder(word).reverse().toString())
+                .toArray(String[]::new);
+    }
 
     public static void main(String[] args) {
         String s = "HelloWorld! Aasd,!?!.";
