@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.stream.Collectors;
 
-
+// 프로그래머스 - 코딩테스트 입문 - 배열 회전시키기
 public class Solution {
     public static int[] solution(int[] numbers, String direction) {
         LinkedList<Integer> list = Arrays.stream(numbers).boxed().collect(Collectors.toCollection(LinkedList::new));
