@@ -1,8 +1,5 @@
-package parctice.NoLinearDS_01;// Practice1
+package parctice.NoLinearDS_01Bt;// Practice1
 // 배열을 이용한 이진 트리 구성, 순회
-
-import javax.swing.*;
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
 
 class BinaryTree {
 

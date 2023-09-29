@@ -1,9 +1,8 @@
-package parctice.NoLinearDS_01;// Practice3
+package parctice.NoLinearDS_01Bt;// Practice3
 // 트리 구조 복습 / 구현
 
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.TreeSet;
 
 class Node2 {
 

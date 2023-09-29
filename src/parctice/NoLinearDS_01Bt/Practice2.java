@@ -1,4 +1,4 @@
-package parctice.NoLinearDS_01;// Practice2
+package parctice.NoLinearDS_01Bt;// Practice2
 // 연결 리스트를 이용한 이진 트리 구성, 순회
 
 import java.util.LinkedList;
