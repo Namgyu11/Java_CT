@@ -4,26 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="프로그래머스 - 문자열안에 문자열">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct03/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct04/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct05/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/test/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/test/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_01/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_02/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_02/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_03/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/test/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/test/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/test/Practice3.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="preCT_02_02">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_03/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_03/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_03/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_03/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_03/ct05/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/Practice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT_00/ct07/ct07_03/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct07/ct07_03/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +28,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -88,13 +76,13 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Solution">
-    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.NoLinearDS_02Bst.bst_02.Practice2" />
+  <component name="RunManager" selected="애플리케이션.codingTest.preCT_02.preCT_03.ct05.Solution">
+    <configuration name="codingTest.preCT_00.ct07.ct07_03.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_00.ct07.ct07_03.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.NoLinearDS_02Bst.bst_02.*" />
+          <option name="PATTERN" value="codingTest.preCT_00.ct07.ct07_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_02.preCT_02.ct05.Solution" />
+    <configuration name="codingTest.preCT_02.preCT_03.ct01.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_02.preCT_03.ct01.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.preCT_02.preCT_02.ct05.*" />
+          <option name="PATTERN" value="codingTest.preCT_02.preCT_03.ct01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parctice.NoLinearDS_02Bst.bst_03.Practice1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.NoLinearDS_02Bst.bst_03.Practice1" />
+    <configuration name="codingTest.preCT_02.preCT_03.ct03.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_02.preCT_03.ct03.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.NoLinearDS_02Bst.bst_03.*" />
+          <option name="PATTERN" value="codingTest.preCT_02.preCT_03.ct03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parctice.NoLinearDS_02Bst.bst_03.Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.NoLinearDS_02Bst.bst_03.Practice1" />
+    <configuration name="codingTest.preCT_02.preCT_03.ct04.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_02.preCT_03.ct04.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.NoLinearDS_02Bst.bst_03.*" />
+          <option name="PATTERN" value="codingTest.preCT_02.preCT_03.ct04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parctice.NoLinearDS_02Bst.test.Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.NoLinearDS_02Bst.test.Practice1" />
+    <configuration name="codingTest.preCT_02.preCT_03.ct05.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_02.preCT_03.ct05.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.NoLinearDS_02Bst.test.*" />
+          <option name="PATTERN" value="codingTest.preCT_02.preCT_03.ct05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Solution" />
-        <item itemvalue="애플리케이션.parctice.NoLinearDS_02Bst.test.Practice1" />
-        <item itemvalue="애플리케이션.parctice.NoLinearDS_02Bst.bst_03.Practice1 (1)" />
-        <item itemvalue="애플리케이션.parctice.NoLinearDS_02Bst.bst_03.Practice1" />
-        <item itemvalue="애플리케이션.Practice2" />
+        <item itemvalue="애플리케이션.codingTest.preCT_02.preCT_03.ct05.Solution" />
+        <item itemvalue="애플리케이션.codingTest.preCT_02.preCT_03.ct04.Solution" />
+        <item itemvalue="애플리케이션.codingTest.preCT_02.preCT_03.ct03.Solution" />
+        <item itemvalue="애플리케이션.codingTest.preCT_00.ct07.ct07_03.Solution" />
+        <item itemvalue="애플리케이션.codingTest.preCT_02.preCT_03.ct01.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +188,8 @@
       <workItem from="1695546900938" duration="3092000" />
       <workItem from="1695599891601" duration="28922000" />
       <workItem from="1695773168433" duration="9387000" />
-      <workItem from="1695946088213" duration="10917000" />
+      <workItem from="1695946088213" duration="14982000" />
+      <workItem from="1696000452134" duration="1877000" />
     </task>
     <task id="LOCAL-00001" summary="자료구조 배열 개념">
       <created>1691721119341</created>
@@ -510,15 +499,27 @@
       <option name="project" value="LOCAL" />
       <updated>1695729692640</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="비선형 자료구조">
+      <created>1695996367718</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1695996367718</updated>
+    </task>
+    <task id="LOCAL-00046" summary="preCT_02_02">
+      <created>1695996504438</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1695996504438</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="비선형 자료구조" />
-    <MESSAGE value="백준 01021" />
     <MESSAGE value="백준 10818 - 최소, 최대" />
     <MESSAGE value="pro 배열 - 나누어 떨어지는 숫자 배열" />
     <MESSAGE value="pro 배열 - 스택/큐 -  기능개발" />
@@ -542,7 +543,9 @@
     <MESSAGE value="pre01" />
     <MESSAGE value="프로그래머스 - 배열 회전시키기" />
     <MESSAGE value="프로그래머스 - 문자열안에 문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 - 문자열안에 문자열" />
+    <MESSAGE value="비선형 자료구조" />
+    <MESSAGE value="preCT_02_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="preCT_02_02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
