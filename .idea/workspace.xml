@@ -4,42 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="preCT02_01">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/pro/arrayTest/rotatingArr/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/pro/arrayTest/stringArr_02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/pro/hashTest/onceChar/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="프로그래머스 - 문자열안에 문자열">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct05/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/test/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/test/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_01/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_02/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_02/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/bst_03/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/test/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/test/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_02Bst/test/Practice3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct03/ct03_01/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct03/ct03_01/solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct03/ct03_02/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct03/ct03_02/solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct03/ct03_04/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct03/ct03_04/solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct03/ct03_05/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct03/ct03_05/solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct04/ct04_01/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct04/ct04_01/solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct04/ct04_02/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct04/ct04_02/solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct04/ct04_03/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct04/ct04_03/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct04/ct04_04/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct04/ct04_04/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct04/ct04_05/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct04/ct04_05/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct05/ct05_01/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct05/ct05_01/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct05/ct05_02/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct05/ct05_02/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct05/ct05_03/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct05/ct05_03/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct05/ct05_04/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct05/ct05_04/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct05/ct05_05/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct05/ct05_05/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct06/ct06_01/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct06/ct06_01/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct06/ct06_02/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct06/ct06_02/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct06/ct06_03/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct06/ct06_03/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct06/ct06_04/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct06/ct06_04/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct06/ct06_05/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct06/ct06_05/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct07/ct07_01/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct07/ct07_01/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct07/ct07_02/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct07/ct07_02/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct07/ct07_03/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct07/ct07_03/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct07/ct07_04/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct07/ct07_04/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct07/ct07_05/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct07/ct07_05/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct08/ct08_01/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct08/ct08_01/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct08/ct08_02/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct08/ct08_02/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct08/ct08_03/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct08/ct08_03/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct09/ct09_01/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct09/ct09_01/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct09/ct09_02/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct09/ct09_02/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT/ct09/ct09_03/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct09/ct09_03/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/pro/arrayTest/stringArr/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/pro/arrayTest/stringArr_01/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/Practice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/Practice3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +40,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e2803f35-c1ab-43bd-8091-97ec88da4997" />
+        <option name="url" value="https://github.com/Namgyu11/Java_CT.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -70,7 +67,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_CT/src/parctice/NoLinearDS_01&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_CT/src/parctice/NoLinearDS_02Bst/test&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -81,20 +78,36 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_12\linearDS_13" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_12\linearDS_12_01" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_10\dequeTest" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\linearDS_10" />
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_02Bst\test" />
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_02Bst\bst_03" />
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_02Bst\bst_02" />
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_02Bst\bst_01" />
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.codingTest.preCT_02.preCT_01.ct03.Solution">
+  <component name="RunManager" selected="애플리케이션.Solution">
+    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.NoLinearDS_02Bst.bst_02.Practice2" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parctice.NoLinearDS_02Bst.bst_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.pro.arrayTest.rotatingArr.Solution" />
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_02.preCT_02.ct05.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.pro.arrayTest.rotatingArr.*" />
+          <option name="PATTERN" value="codingTest.preCT_02.preCT_02.ct05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.preCT_02.preCT_01.ct01.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_02.preCT_01.ct01.Solution" />
+    <configuration name="parctice.NoLinearDS_02Bst.bst_03.Practice1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.NoLinearDS_02Bst.bst_03.Practice1" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.preCT_02.preCT_01.ct01.*" />
+          <option name="PATTERN" value="parctice.NoLinearDS_02Bst.bst_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.preCT_02.preCT_01.ct02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_02.preCT_01.ct02.Solution" />
+    <configuration name="parctice.NoLinearDS_02Bst.bst_03.Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.NoLinearDS_02Bst.bst_03.Practice1" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.preCT_02.preCT_01.ct02.*" />
+          <option name="PATTERN" value="parctice.NoLinearDS_02Bst.bst_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,25 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.preCT_02.preCT_01.ct03.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_02.preCT_01.ct03.Solution" />
+    <configuration name="parctice.NoLinearDS_02Bst.test.Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.NoLinearDS_02Bst.test.Practice1" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.preCT_02.preCT_01.ct03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codingTest.pro.hashTest.onceChar.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.pro.hashTest.onceChar.Solution" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.pro.hashTest.onceChar.*" />
+          <option name="PATTERN" value="parctice.NoLinearDS_02Bst.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.codingTest.preCT_02.preCT_01.ct03.Solution" />
-        <item itemvalue="애플리케이션.codingTest.preCT_02.preCT_01.ct02.Solution" />
-        <item itemvalue="애플리케이션.codingTest.preCT_02.preCT_01.ct01.Solution" />
         <item itemvalue="애플리케이션.Solution" />
-        <item itemvalue="애플리케이션.codingTest.pro.hashTest.onceChar.Solution" />
+        <item itemvalue="애플리케이션.parctice.NoLinearDS_02Bst.test.Practice1" />
+        <item itemvalue="애플리케이션.parctice.NoLinearDS_02Bst.bst_03.Practice1 (1)" />
+        <item itemvalue="애플리케이션.parctice.NoLinearDS_02Bst.bst_03.Practice1" />
+        <item itemvalue="애플리케이션.Practice2" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,9 @@
       <workItem from="1695283081071" duration="10577000" />
       <workItem from="1695363846763" duration="9719000" />
       <workItem from="1695546900938" duration="3092000" />
-      <workItem from="1695599891601" duration="26147000" />
+      <workItem from="1695599891601" duration="28922000" />
+      <workItem from="1695773168433" duration="9387000" />
+      <workItem from="1695946088213" duration="10917000" />
     </task>
     <task id="LOCAL-00001" summary="자료구조 배열 개념">
       <created>1691721119341</created>
@@ -466,19 +468,55 @@
       <option name="project" value="LOCAL" />
       <updated>1695723501106</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="pro- 한 번만 등장한 문자">
+      <created>1695725613227</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1695725613227</updated>
+    </task>
+    <task id="LOCAL-00040" summary="pro- 배열 회전시키기">
+      <created>1695725634619</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1695725634619</updated>
+    </task>
+    <task id="LOCAL-00041" summary="pro- 문자열 안에 문자">
+      <created>1695725654583</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1695725654583</updated>
+    </task>
+    <task id="LOCAL-00042" summary="pre01">
+      <created>1695725677312</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1695725677312</updated>
+    </task>
+    <task id="LOCAL-00043" summary="프로그래머스 - 배열 회전시키기">
+      <created>1695729553586</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1695729553586</updated>
+    </task>
+    <task id="LOCAL-00044" summary="프로그래머스 - 문자열안에 문자열">
+      <created>1695729692640</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1695729692640</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ct04" />
-    <MESSAGE value="ct" />
-    <MESSAGE value="Deque" />
-    <MESSAGE value="HashTable" />
-    <MESSAGE value="Tree" />
-    <MESSAGE value="같은 수는 싫어요" />
     <MESSAGE value="비선형 자료구조" />
     <MESSAGE value="백준 01021" />
     <MESSAGE value="백준 10818 - 최소, 최대" />
@@ -498,7 +536,13 @@
     <MESSAGE value="pro 01_05" />
     <MESSAGE value="tree" />
     <MESSAGE value="preCT02_01" />
-    <option name="LAST_COMMIT_MESSAGE" value="preCT02_01" />
+    <MESSAGE value="pro- 한 번만 등장한 문자" />
+    <MESSAGE value="pro- 배열 회전시키기" />
+    <MESSAGE value="pro- 문자열 안에 문자" />
+    <MESSAGE value="pre01" />
+    <MESSAGE value="프로그래머스 - 배열 회전시키기" />
+    <MESSAGE value="프로그래머스 - 문자열안에 문자열" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 - 문자열안에 문자열" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -589,7 +633,7 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice2.java</url>
+          <url>file://$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/Practice2.java</url>
           <line>102</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
@@ -629,7 +673,7 @@
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/parctice/NoLinearDS_01/Practice1.java</url>
+          <url>file://$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/Practice1.java</url>
           <line>31</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
@@ -638,10 +682,15 @@
           <line>22</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codingTest/preCT_02/preCT_02/ct05/Solution.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/codingTest/preCT_00/ct05/ct05_05/Solution.java</url>
           <line>39</line>
-          <properties class="codingTest.preCT_00.ct05.ct05_05.Solution" method="main">
+          <properties class="codingTest.preCT_00.ct05.ct05_05.Solution">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
