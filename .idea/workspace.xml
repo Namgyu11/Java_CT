@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="Algorithm - TwoPointer">
-      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_06_TwoPointer/practice/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_08_Greedy/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_08_Greedy/main/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/bj/bj11047/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_08_Greedy/test/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_08_Greedy/test/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_08_Greedy/test/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_08_Greedy/test/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_08_Greedy/test/Practice5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,34 +50,47 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_CT/src/parctice/Algorithm/Algo_08_Greedy/main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/냄규/Java_CT/src/parctice/Algorithm/Algo_08_Greedy/test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\Algorithm\Algo_08_Greedy\test" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\Algorithm\Algo_08_Greedy\main" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\Algorithm\Algo_06_TwoPointer\practice" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\Algorithm\Algo_06_TwoPointer" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_02Bst\test" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_02Bst\bst_03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Main2">
+  <component name="RunManager" selected="애플리케이션.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.bj.bj11047.Main" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.bj.bj11047.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="parctice.Algorithm.Algo_08_Greedy.main.Main2" />
       <module name="Java_CT" />
@@ -88,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.Algorithm.Algo_06_TwoPointer.practice.Practice2" />
+    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.Algorithm.Algo_08_Greedy.test.Practice3" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.Algorithm.Algo_06_TwoPointer.practice.*" />
+          <option name="PATTERN" value="parctice.Algorithm.Algo_08_Greedy.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.Algorithm.Algo_06_TwoPointer.practice.Practice4" />
+      <option name="MAIN_CLASS_NAME" value="parctice.Algorithm.Algo_08_Greedy.test.Practice4" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.Algorithm.Algo_06_TwoPointer.practice.*" />
+          <option name="PATTERN" value="parctice.Algorithm.Algo_08_Greedy.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,25 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.bj.bj02003.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.bj.bj02003.Main" />
+    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.Algorithm.Algo_08_Greedy.test.Practice5" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.bj.bj02003.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="parctice.Algorithm.Algo_08_Greedy.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.Algorithm.Algo_08_Greedy.main.Main" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="parctice.Algorithm.Algo_08_Greedy.main.*" />
+          <option name="PATTERN" value="parctice.Algorithm.Algo_08_Greedy.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.Main2" />
-        <item itemvalue="애플리케이션.parctice.Algorithm.Algo_08_Greedy.main.Main" />
-        <item itemvalue="애플리케이션.codingTest.bj.bj02003.Main" />
+        <item itemvalue="애플리케이션.Practice5" />
         <item itemvalue="애플리케이션.Practice4" />
-        <item itemvalue="애플리케이션.Practice2" />
+        <item itemvalue="애플리케이션.Practice3" />
       </list>
     </recent_temporary>
   </component>
@@ -192,21 +195,8 @@
       <workItem from="1696153767561" duration="4950000" />
       <workItem from="1696209790978" duration="620000" />
       <workItem from="1696297243676" duration="14035000" />
-      <workItem from="1696382715046" duration="2920000" />
-    </task>
-    <task id="LOCAL-00001" summary="자료구조 배열 개념">
-      <created>1691721119341</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1691721119341</updated>
-    </task>
-    <task id="LOCAL-00002" summary="자료구조 스택 개념">
-      <created>1691844873928</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1691844873928</updated>
+      <workItem from="1696382715046" duration="2976000" />
+      <workItem from="1696487827513" duration="8716000" />
     </task>
     <task id="LOCAL-00003" summary="자료구조 배열 개념">
       <created>1691844893803</created>
@@ -537,14 +527,27 @@
       <option name="project" value="LOCAL" />
       <updated>1696340407474</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Algorithm - Greedy">
+      <created>1696428843511</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1696428843511</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Algorithm - TwoPointer">
+      <created>1696428861636</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1696428861636</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro - 해시 - 의상" />
     <MESSAGE value="bj 01158" />
     <MESSAGE value="pro - process" />
     <MESSAGE value="bj09012 - 스택 괄호" />
@@ -568,6 +571,7 @@
     <MESSAGE value="preCT_02_02" />
     <MESSAGE value="preCT_02_03" />
     <MESSAGE value="preCT02_05" />
+    <MESSAGE value="Algorithm - Greedy" />
     <MESSAGE value="Algorithm - TwoPointer" />
     <option name="LAST_COMMIT_MESSAGE" value="Algorithm - TwoPointer" />
   </component>
@@ -738,6 +742,21 @@
           <url>file://$PROJECT_DIR$/src/codingTest/bj/bj02003/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/parctice/Algorithm/Algo_08_Greedy/test/Practice1.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/parctice/Algorithm/Algo_08_Greedy/main/Main2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codingTest/bj/bj11047/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/codingTest/preCT_00/ct05/ct05_05/Solution.java</url>
