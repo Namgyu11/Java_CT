@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="bj11047 - 동전0">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="preCT_03_01">
       <change afterPath="$PROJECT_DIR$/src/codingTest/bj/bj01890/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_01/ct01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_01/ct02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_01/ct03/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_01/ct04/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_01/ct05/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct05/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/main/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/test/Practice1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/test/Practice2.java" afterDir="false" />
@@ -202,13 +202,7 @@
       <workItem from="1696382715046" duration="2976000" />
       <workItem from="1696487827513" duration="10092000" />
       <workItem from="1696569626375" duration="18916000" />
-    </task>
-    <task id="LOCAL-00005" summary="스택 연습문제">
-      <created>1691913915427</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1691913915427</updated>
+      <workItem from="1696676895897" duration="2443000" />
     </task>
     <task id="LOCAL-00006" summary="Queue 연습문제">
       <created>1692066097619</created>
@@ -546,14 +540,20 @@
       <option name="project" value="LOCAL" />
       <updated>1696506251150</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="preCT_03_01">
+      <created>1696676959227</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1696676959228</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro - process" />
     <MESSAGE value="bj09012 - 스택 괄호" />
     <MESSAGE value="bj10807 - 개수 세기" />
     <MESSAGE value="pro - 문자열" />
@@ -578,7 +578,8 @@
     <MESSAGE value="Algorithm - TwoPointer" />
     <MESSAGE value="Algorithm - Greedy" />
     <MESSAGE value="bj11047 - 동전0" />
-    <option name="LAST_COMMIT_MESSAGE" value="bj11047 - 동전0" />
+    <MESSAGE value="preCT_03_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="preCT_03_01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
