@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="preCT_03_01">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="preCT_03_02">
       <change afterPath="$PROJECT_DIR$/src/codingTest/bj/bj01890/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct03/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct04/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_02/ct05/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_03/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_03/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_03/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_03/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_03/ct05/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/main/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/test/Practice1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/test/Practice2.java" afterDir="false" />
@@ -81,39 +81,26 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.codingTest.preCT_03.preCT_03_01.ct05.Solution">
+  <component name="RunManager" selected="애플리케이션.Practice2">
+    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parctice.Algorithm.Algo_12_DP.test.Practice2" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parctice.Algorithm.Algo_12_DP.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_03.preCT_03_01.ct01.Solution" />
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_03.preCT_03_03.ct03.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.preCT_03.preCT_03_01.ct01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codingTest.preCT_03.preCT_03_01.ct02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_03.preCT_03_01.ct02.Solution" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.preCT_03.preCT_03_01.ct02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codingTest.preCT_03.preCT_03_01.ct03.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_03.preCT_03_01.ct03.Solution" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.preCT_03.preCT_03_01.ct03.*" />
+          <option name="PATTERN" value="codingTest.preCT_03.preCT_03_03.ct03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,13 +134,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="codingTest.preCT_03.preCT_03_03.ct02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_03.preCT_03_03.ct02.Solution" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.preCT_03.preCT_03_03.ct02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Practice2" />
+        <item itemvalue="애플리케이션.Solution" />
+        <item itemvalue="애플리케이션.codingTest.preCT_03.preCT_03_03.ct02.Solution" />
         <item itemvalue="애플리케이션.codingTest.preCT_03.preCT_03_01.ct05.Solution" />
         <item itemvalue="애플리케이션.codingTest.preCT_03.preCT_03_01.ct04.Solution" />
-        <item itemvalue="애플리케이션.codingTest.preCT_03.preCT_03_01.ct03.Solution" />
-        <item itemvalue="애플리케이션.codingTest.preCT_03.preCT_03_01.ct02.Solution" />
-        <item itemvalue="애플리케이션.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -202,14 +202,7 @@
       <workItem from="1696382715046" duration="2976000" />
       <workItem from="1696487827513" duration="10092000" />
       <workItem from="1696569626375" duration="18916000" />
-      <workItem from="1696676895897" duration="2443000" />
-    </task>
-    <task id="LOCAL-00006" summary="Queue 연습문제">
-      <created>1692066097619</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1692066097619</updated>
+      <workItem from="1696676895897" duration="10761000" />
     </task>
     <task id="LOCAL-00007" summary="백준 9012">
       <created>1692078356416</created>
@@ -547,14 +540,20 @@
       <option name="project" value="LOCAL" />
       <updated>1696676959228</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="preCT_03_02">
+      <created>1696682893782</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1696682893783</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bj09012 - 스택 괄호" />
     <MESSAGE value="bj10807 - 개수 세기" />
     <MESSAGE value="pro - 문자열" />
     <MESSAGE value="pro - 짝수는 싫어요" />
@@ -579,7 +578,8 @@
     <MESSAGE value="Algorithm - Greedy" />
     <MESSAGE value="bj11047 - 동전0" />
     <MESSAGE value="preCT_03_01" />
-    <option name="LAST_COMMIT_MESSAGE" value="preCT_03_01" />
+    <MESSAGE value="preCT_03_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="preCT_03_02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -770,9 +770,9 @@
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_01/ct05/Solution.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="87" />
+          <url>file://$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_03/ct02/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/codingTest/preCT_00/ct05/ct05_05/Solution.java</url>
