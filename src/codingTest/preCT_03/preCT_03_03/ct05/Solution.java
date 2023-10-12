@@ -8,12 +8,7 @@ public class Solution {
         for (int i = 2; i <=fruits.length; i++) {
             
         }
-        
-        
-        
-        
-        
-        
+
         int answer = 0;
         return answer;
     }
