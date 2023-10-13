@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="preCT_03_05">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/bj/bj01890/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/test/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/test/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/Algorithm/Algo_12_DP/test/Practice3.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="preCT_03_03_05">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT01/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT01/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT01/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT01/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT01/ct05/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_03/ct05/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_03/ct05/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.codingTest.preCT_03.preCT_03_05.ct05.Solution">
+  <component name="RunManager" selected="애플리케이션.codingTest.CT.CT01.ct03.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.preCT_03.preCT_03_05.ct03.Solution" />
       <module name="Java_CT" />
@@ -91,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.preCT_03.preCT_03_04.ct01.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_03.preCT_03_04.ct01.Solution" />
+    <configuration name="codingTest.CT.CT01.ct01.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT01.ct01.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.preCT_03.preCT_03_04.ct01.*" />
+          <option name="PATTERN" value="codingTest.CT.CT01.ct01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.preCT_03.preCT_03_05.ct01.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_03.preCT_03_05.ct01.Solution" />
+    <configuration name="codingTest.CT.CT01.ct02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT01.ct02.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.preCT_03.preCT_03_05.ct01.*" />
+          <option name="PATTERN" value="codingTest.CT.CT01.ct02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.preCT_03.preCT_03_05.ct02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.preCT_03.preCT_03_05.ct02.Solution" />
+    <configuration name="codingTest.CT.CT01.ct03.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT01.ct03.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.preCT_03.preCT_03_05.ct02.*" />
+          <option name="PATTERN" value="codingTest.CT.CT01.ct03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.codingTest.CT.CT01.ct03.Solution" />
+        <item itemvalue="애플리케이션.codingTest.CT.CT01.ct02.Solution" />
+        <item itemvalue="애플리케이션.codingTest.CT.CT01.ct01.Solution" />
         <item itemvalue="애플리케이션.codingTest.preCT_03.preCT_03_05.ct05.Solution" />
         <item itemvalue="애플리케이션.Solution" />
-        <item itemvalue="애플리케이션.codingTest.preCT_03.preCT_03_05.ct02.Solution" />
-        <item itemvalue="애플리케이션.codingTest.preCT_03.preCT_03_05.ct01.Solution" />
-        <item itemvalue="애플리케이션.codingTest.preCT_03.preCT_03_04.ct01.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -202,27 +201,9 @@
       <workItem from="1696758730603" duration="11205000" />
       <workItem from="1696770184717" duration="5474000" />
       <workItem from="1696933463017" duration="68000" />
-    </task>
-    <task id="LOCAL-00010" summary="ct03">
-      <created>1692443036778</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1692443036778</updated>
-    </task>
-    <task id="LOCAL-00011" summary="ct04">
-      <created>1692876858930</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1692876858930</updated>
-    </task>
-    <task id="LOCAL-00012" summary="ct">
-      <created>1693045003786</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1693045003786</updated>
+      <workItem from="1697035045780" duration="35000" />
+      <workItem from="1697120400171" duration="6283000" />
+      <workItem from="1697196213141" duration="314000" />
     </task>
     <task id="LOCAL-00013" summary="Deque">
       <created>1693045019208</created>
@@ -546,16 +527,34 @@
       <option name="project" value="LOCAL" />
       <updated>1696933526307</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Algo_DP">
+      <created>1697035072015</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1697035072016</updated>
+    </task>
+    <task id="LOCAL-00060" summary="백준 - 1890">
+      <created>1697120442122</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1697120442123</updated>
+    </task>
+    <task id="LOCAL-00061" summary="preCT_03_03_05">
+      <created>1697120463980</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1697120463980</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro 01_01" />
-    <MESSAGE value="pro 01_02" />
-    <MESSAGE value="pro 01_03" />
     <MESSAGE value="pro 01_04" />
     <MESSAGE value="pro 01_05" />
     <MESSAGE value="tree" />
@@ -578,7 +577,10 @@
     <MESSAGE value="preCT_03_03" />
     <MESSAGE value="preCT_03_04" />
     <MESSAGE value="preCT_03_05" />
-    <option name="LAST_COMMIT_MESSAGE" value="preCT_03_05" />
+    <MESSAGE value="Algo_DP" />
+    <MESSAGE value="백준 - 1890" />
+    <MESSAGE value="preCT_03_03_05" />
+    <option name="LAST_COMMIT_MESSAGE" value="preCT_03_03_05" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
