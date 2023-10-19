@@ -19,7 +19,7 @@ public class Main {
 
 
 //      2차원 배열
-        System.out.println("== 2차원 배열 ==");
+        System.out.println("== 2차원 배열  출력==");
         int[][] arr2 = {{1, 2, 3}, {4, 5, 6}};
         System.out.println(arr2[0][1]);
 
@@ -28,6 +28,17 @@ public class Main {
                 System.out.println("item = " + item);
             }
         }
+        for(int[] row: arr2) {
+            for(int item: row) {
+                System.out.println("item = " + item);
+            }
+        }
+        for(int[] row: arr2) {
+            for(int item: row) {
+                System.out.println("item = " + item);
+            }
+        }
+
 
 
 //      ArrayList - 1차원, 2차원

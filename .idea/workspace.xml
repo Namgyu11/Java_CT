@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT_01">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_01/ct01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_01/ct02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_01/ct03/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT_Month_01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,14 +198,8 @@
       <workItem from="1696933463017" duration="68000" />
       <workItem from="1697035045780" duration="35000" />
       <workItem from="1697120400171" duration="6283000" />
-      <workItem from="1697196213141" duration="8674000" />
-    </task>
-    <task id="LOCAL-00014" summary="ct">
-      <created>1693284934781</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1693284934781</updated>
+      <workItem from="1697196213141" duration="8721000" />
+      <workItem from="1697547685805" duration="12000" />
     </task>
     <task id="LOCAL-00015" summary="Deque">
       <created>1693403375281</created>
@@ -546,14 +537,20 @@
       <option name="project" value="LOCAL" />
       <updated>1697197964545</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="CT_Month_01">
+      <created>1697209563553</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1697209563553</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro 01_05" />
     <MESSAGE value="tree" />
     <MESSAGE value="preCT02_01" />
     <MESSAGE value="pro- 한 번만 등장한 문자" />
@@ -578,7 +575,8 @@
     <MESSAGE value="백준 - 1890" />
     <MESSAGE value="preCT_03_03_05" />
     <MESSAGE value="CT_01" />
-    <option name="LAST_COMMIT_MESSAGE" value="CT_01" />
+    <MESSAGE value="CT_Month_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT_Month_01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
