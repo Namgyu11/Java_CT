@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT02">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT03/ct01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT03/ct02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT03/ct03/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT03/ct04/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,13 +205,7 @@
       <workItem from="1697973657761" duration="10815000" />
       <workItem from="1698245654566" duration="25000" />
       <workItem from="1698325354659" duration="8654000" />
-    </task>
-    <task id="LOCAL-00017" summary="Tree">
-      <created>1693733260136</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1693733260136</updated>
+      <workItem from="1698590627647" duration="408000" />
     </task>
     <task id="LOCAL-00018" summary="같은 수는 싫어요">
       <created>1694447572124</created>
@@ -553,14 +543,20 @@
       <option name="project" value="LOCAL" />
       <updated>1697985539657</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="CT03">
+      <created>1698590951918</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1698590951918</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro- 한 번만 등장한 문자" />
     <MESSAGE value="pro- 배열 회전시키기" />
     <MESSAGE value="pro- 문자열 안에 문자" />
     <MESSAGE value="pre01" />
@@ -585,7 +581,8 @@
     <MESSAGE value="CT_Month_01" />
     <MESSAGE value="배열" />
     <MESSAGE value="CT02" />
-    <option name="LAST_COMMIT_MESSAGE" value="CT02" />
+    <MESSAGE value="CT03" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
