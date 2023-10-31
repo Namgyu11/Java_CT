@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT03">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT03_04" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,20 +204,7 @@
       <workItem from="1698245654566" duration="25000" />
       <workItem from="1698325354659" duration="8654000" />
       <workItem from="1698590627647" duration="408000" />
-    </task>
-    <task id="LOCAL-00018" summary="같은 수는 싫어요">
-      <created>1694447572124</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1694447572124</updated>
-    </task>
-    <task id="LOCAL-00019" summary="비선형 자료구조">
-      <created>1694447604827</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1694447604827</updated>
+      <workItem from="1698593192244" duration="85000" />
     </task>
     <task id="LOCAL-00020" summary="백준 01021">
       <created>1694571989092</created>
@@ -550,15 +535,27 @@
       <option name="project" value="LOCAL" />
       <updated>1698590951918</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="CT03_05">
+      <created>1698593227097</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1698593227098</updated>
+    </task>
+    <task id="LOCAL-00068" summary="CT03_04">
+      <created>1698593271382</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1698593271382</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro- 배열 회전시키기" />
-    <MESSAGE value="pro- 문자열 안에 문자" />
     <MESSAGE value="pre01" />
     <MESSAGE value="프로그래머스 - 배열 회전시키기" />
     <MESSAGE value="프로그래머스 - 문자열안에 문자열" />
@@ -582,7 +579,9 @@
     <MESSAGE value="배열" />
     <MESSAGE value="CT02" />
     <MESSAGE value="CT03" />
-    <option name="LAST_COMMIT_MESSAGE" value="CT03" />
+    <MESSAGE value="CT03_05" />
+    <MESSAGE value="CT03_04" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT03_04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
