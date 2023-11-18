@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT03_04" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT04">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT05/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT05/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT05/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT05/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT05/ct05/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct05/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_02/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_02/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_02/ct03/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,39 +84,13 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.codingTest.CT.CT02.ct04.Solution">
+  <component name="RunManager" selected="애플리케이션.codingTest.CT.CT06.ct03.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT03.ct02.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codingTest.CT.CT03.ct02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codingTest.CT.CT02.ct02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT02.ct02.Solution" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.CT.CT02.ct02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codingTest.CT.CT02.ct03.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT02.ct03.Solution" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.CT.CT02.ct03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +111,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.CT.CT03.ct01.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT03.ct01.Solution" />
+    <configuration name="codingTest.CT.CT04.ct02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT04.ct02.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.CT.CT03.ct01.*" />
+          <option name="PATTERN" value="codingTest.CT.CT04.ct02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codingTest.CT.CT06.ct03.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT06.ct03.Solution" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.CT.CT06.ct03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codingTest.CT.CT_month_02.ct01.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT_month_02.ct01.Solution" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.CT.CT_month_02.ct01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.codingTest.CT.CT06.ct03.Solution" />
+        <item itemvalue="애플리케이션.codingTest.CT.CT_month_02.ct01.Solution" />
+        <item itemvalue="애플리케이션.codingTest.CT.CT04.ct02.Solution" />
         <item itemvalue="애플리케이션.codingTest.CT.CT02.ct04.Solution" />
         <item itemvalue="애플리케이션.Solution" />
-        <item itemvalue="애플리케이션.codingTest.CT.CT03.ct01.Solution" />
-        <item itemvalue="애플리케이션.codingTest.CT.CT02.ct03.Solution" />
-        <item itemvalue="애플리케이션.codingTest.CT.CT02.ct02.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -205,20 +220,13 @@
       <workItem from="1698325354659" duration="8654000" />
       <workItem from="1698590627647" duration="408000" />
       <workItem from="1698593192244" duration="85000" />
-    </task>
-    <task id="LOCAL-00020" summary="백준 01021">
-      <created>1694571989092</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1694571989092</updated>
-    </task>
-    <task id="LOCAL-00021" summary="백준 10818 - 최소, 최대">
-      <created>1694615443276</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1694615443276</updated>
+      <workItem from="1698762171137" duration="61000" />
+      <workItem from="1698937790993" duration="8056000" />
+      <workItem from="1699526600540" duration="17000" />
+      <workItem from="1699545881988" duration="4941000" />
+      <workItem from="1699693337596" duration="3865000" />
+      <workItem from="1699951204520" duration="5828000" />
+      <workItem from="1700146883813" duration="5134000" />
     </task>
     <task id="LOCAL-00022" summary="pro 배열 - 나누어 떨어지는 숫자 배열">
       <created>1694615504409</created>
@@ -549,14 +557,27 @@
       <option name="project" value="LOCAL" />
       <updated>1698593271382</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="CT03_04">
+      <created>1698762222533</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1698762222534</updated>
+    </task>
+    <task id="LOCAL-00070" summary="CT04">
+      <created>1700058474441</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1700058474442</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pre01" />
     <MESSAGE value="프로그래머스 - 배열 회전시키기" />
     <MESSAGE value="프로그래머스 - 문자열안에 문자열" />
     <MESSAGE value="비선형 자료구조" />
@@ -581,7 +602,8 @@
     <MESSAGE value="CT03" />
     <MESSAGE value="CT03_05" />
     <MESSAGE value="CT03_04" />
-    <option name="LAST_COMMIT_MESSAGE" value="CT03_04" />
+    <MESSAGE value="CT04" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -807,6 +829,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
           <option name="timeStamp" value="38" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="93" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
