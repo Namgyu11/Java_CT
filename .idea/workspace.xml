@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT05">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct03/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct04/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT06/ct05/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT06">
       <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT07/ct01/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT07/ct02/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT07/ct03/Solution.java" afterDir="false" />
@@ -228,14 +223,8 @@
       <workItem from="1699951204520" duration="5828000" />
       <workItem from="1700146883813" duration="5134000" />
       <workItem from="1700316322634" duration="632000" />
-      <workItem from="1700550456779" duration="5417000" />
-    </task>
-    <task id="LOCAL-00023" summary="pro 배열 - 스택/큐 -  기능개발">
-      <created>1694615584919</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1694615584919</updated>
+      <workItem from="1700550456779" duration="5630000" />
+      <workItem from="1701353453290" duration="596000" />
     </task>
     <task id="LOCAL-00024" summary="pro - 해시 - 의상">
       <created>1694763543397</created>
@@ -573,14 +562,20 @@
       <option name="project" value="LOCAL" />
       <updated>1700316347621</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="CT06">
+      <created>1700758908671</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1700758908672</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="프로그래머스 - 문자열안에 문자열" />
     <MESSAGE value="비선형 자료구조" />
     <MESSAGE value="preCT_02_02" />
     <MESSAGE value="preCT_02_03" />
@@ -605,7 +600,8 @@
     <MESSAGE value="CT03_04" />
     <MESSAGE value="CT04" />
     <MESSAGE value="CT05" />
-    <option name="LAST_COMMIT_MESSAGE" value="CT05" />
+    <MESSAGE value="CT06" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -817,7 +813,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codingTest/CT/CT07/ct04/Solution.java</url>
-          <line>20</line>
+          <line>21</line>
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
