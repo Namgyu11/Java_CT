@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT09">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT10/ct01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT10/ct02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT10/ct03/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT10/ct04/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT10/ct05/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT10">
       <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_02/ct01/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_02/ct02/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_02/ct03/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_03/ct01/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_03/ct02/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_03/ct03/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,13 +226,7 @@
       <workItem from="1701965797513" duration="4469000" />
       <workItem from="1702193561947" duration="2983000" />
       <workItem from="1702562676512" duration="6150000" />
-    </task>
-    <task id="LOCAL-00027" summary="tree">
-      <created>1694950202925</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1694950202925</updated>
+      <workItem from="1702645217006" duration="245000" />
     </task>
     <task id="LOCAL-00028" summary="bj09012 - 스택 괄호">
       <created>1695048026122</created>
@@ -576,14 +564,20 @@
       <option name="project" value="LOCAL" />
       <updated>1702563189511</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="CT10">
+      <created>1702645444653</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1702645444654</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="preCT02_05" />
     <MESSAGE value="Algorithm - TwoPointer" />
     <MESSAGE value="Algorithm - Greedy" />
     <MESSAGE value="bj11047 - 동전0" />
@@ -608,7 +602,8 @@
     <MESSAGE value="CT07" />
     <MESSAGE value="CT08" />
     <MESSAGE value="CT09" />
-    <option name="LAST_COMMIT_MESSAGE" value="CT09" />
+    <MESSAGE value="CT10" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
