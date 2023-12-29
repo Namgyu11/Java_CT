@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="test">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT12">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT12/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT12/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT12/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT12/ct05/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/CT/CT_month_03/ct04/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/CT/CT12/ct01/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/CT/CT12/ct01/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,14 +231,7 @@
       <workItem from="1703171161819" duration="5286000" />
       <workItem from="1703253821344" duration="44000" />
       <workItem from="1703556885839" duration="192000" />
-      <workItem from="1703772667869" duration="1114000" />
-    </task>
-    <task id="LOCAL-00032" summary="pro 01_01">
-      <created>1695111625154</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1695111625154</updated>
+      <workItem from="1703772667869" duration="5318000" />
     </task>
     <task id="LOCAL-00033" summary="pro 01_02">
       <created>1695308204942</created>
@@ -572,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703557063379</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="CT12">
+      <created>1703774445653</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1703774445654</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bj11047 - 동전0" />
     <MESSAGE value="preCT_03_01" />
     <MESSAGE value="preCT_03_02" />
     <MESSAGE value="preCT_03_03" />
@@ -615,7 +618,8 @@
     <MESSAGE value="CT10" />
     <MESSAGE value="CT_month_02" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="CT12" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
