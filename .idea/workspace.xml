@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT13">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="ct099">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT14/ct01/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT14/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT14/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT14/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT14/ct05/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +55,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_CT&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_CT/src/codingTest/CT/CT099&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,11 +66,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\codingTest\CT\CT099" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\Algorithm\Algo_12_DP\test" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\Algorithm\Algo_12_DP\main" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\Algorithm\Algo_08_Greedy\test" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\Algorithm\Algo_08_Greedy\main" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\Algorithm\Algo_06_TwoPointer\practice" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -230,13 +235,8 @@
       <workItem from="1703857841015" duration="18000" />
       <workItem from="1704347419150" duration="4413000" />
       <workItem from="1704897905402" duration="11000" />
-    </task>
-    <task id="LOCAL-00035" summary="pro 01_04">
-      <created>1695375848806</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1695375848806</updated>
+      <workItem from="1704897938896" duration="66000" />
+      <workItem from="1704970771110" duration="7322000" />
     </task>
     <task id="LOCAL-00036" summary="pro 01_05">
       <created>1695550008711</created>
@@ -574,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704378523034</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="ct099">
+      <created>1704897998741</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1704897998742</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="preCT_03_02" />
     <MESSAGE value="preCT_03_03" />
     <MESSAGE value="preCT_03_04" />
     <MESSAGE value="preCT_03_05" />
@@ -617,7 +623,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="CT12" />
     <MESSAGE value="CT13" />
-    <option name="LAST_COMMIT_MESSAGE" value="CT13" />
+    <MESSAGE value="ct099" />
+    <option name="LAST_COMMIT_MESSAGE" value="ct099" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
