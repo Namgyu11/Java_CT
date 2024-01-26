@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT_month_04">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT15/ct01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT15/ct02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT15/ct03/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT15/ct04/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT15/ct05/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT15">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT16/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT16/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT16/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT16/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT16/ct05/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codingTest/CT/CT15/ct05/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/CT/CT15/ct05/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,14 +239,8 @@
       <workItem from="1704897938896" duration="66000" />
       <workItem from="1704970771110" duration="12718000" />
       <workItem from="1705499292412" duration="626000" />
-      <workItem from="1705590002336" duration="4394000" />
-    </task>
-    <task id="LOCAL-00038" summary="preCT02_01">
-      <created>1695723501106</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1695723501106</updated>
+      <workItem from="1705590002336" duration="4741000" />
+      <workItem from="1706194554502" duration="6023000" />
     </task>
     <task id="LOCAL-00039" summary="pro- 한 번만 등장한 문자">
       <created>1695725613227</created>
@@ -583,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705499313145</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="CT15">
+      <created>1705675278002</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1705675278002</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +603,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="preCT_03_05" />
     <MESSAGE value="Algo_DP" />
     <MESSAGE value="백준 - 1890" />
     <MESSAGE value="preCT_03_03_05" />
@@ -626,7 +627,8 @@
     <MESSAGE value="ct099" />
     <MESSAGE value="ct14" />
     <MESSAGE value="CT_month_04" />
-    <option name="LAST_COMMIT_MESSAGE" value="CT_month_04" />
+    <MESSAGE value="CT15" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
