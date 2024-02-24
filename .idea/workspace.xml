@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT_month_05">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_05/ss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT20/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT20/ct02/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT20/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT20/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT20/ct05/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_05/preCT_03_04/ct01/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_05/preCT_03_04/ct02/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_05/preCT_03_04/ct03/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_05/preCT_03_04/ct04/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/preCT_03/preCT_03_05/preCT_03_04/ct05/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +272,7 @@
       <workItem from="1708062338923" duration="3701000" />
       <workItem from="1708096791785" duration="692000" />
       <workItem from="1708264869794" duration="21000" />
-      <workItem from="1708606256548" duration="649000" />
+      <workItem from="1708606256548" duration="6249000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -618,7 +617,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
