@@ -4,6 +4,8 @@ public class Solution {
 
   public int solution(String s, String t, String[][] similarWords) {
     int answer = 0;
+
+
     return answer;
   }
 
