@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT_FINAL_07 08 09">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_FINAL/ct10/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studyCT/CT02/ct01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studyCT/CT02/ct02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studyCT/CT03/ct01/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT_Study_03_03">
+      <change afterPath="$PROJECT_DIR$/src/studyCT/CT04/ct01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studyCT/CT04/ct02/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,30 +50,31 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/냄규/Java_CT/src/codingTest/CT/CT_FINAL",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Solution.executor": "Debug",
-    "애플리케이션.codingTest.CT.CT19.ct03.Solution.executor": "Run",
-    "애플리케이션.codingTest.CT.CT19.ct05.Solution.executor": "Run",
-    "애플리케이션.codingTest.CT.CT22.ct01.Solution.executor": "Run",
-    "애플리케이션.codingTest.CT.CT_month_05.ct01.Solution.executor": "Run",
-    "애플리케이션.studyCT.CT03.ct01.Solution.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_CT/src/codingTest/CT/CT_FINAL&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Solution.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.codingTest.CT.CT19.ct03.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.codingTest.CT.CT19.ct05.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.codingTest.CT.CT22.ct01.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.codingTest.CT.CT_month_05.ct01.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.studyCT.CT03.ct01.Solution.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\codingTest\CT\CT_FINAL" />
@@ -95,13 +94,13 @@
       <recent name="codingTest.CT.CT_FINAL.ct02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.studyCT.CT03.ct01.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyCT.CT02.ct01.Solution" />
+  <component name="RunManager" selected="애플리케이션.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyCT.CT04.ct02.Main" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyCT.CT02.ct01.*" />
+          <option name="PATTERN" value="studyCT.CT04.ct02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codingTest.CT.CT19.ct05.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.CT.CT19.ct05.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyCT.CT02.ct01.Solution" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingTest.CT.CT19.ct05.*" />
+          <option name="PATTERN" value="studyCT.CT02.ct01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.studyCT.CT03.ct01.Solution" />
         <item itemvalue="애플리케이션.Solution" />
         <item itemvalue="애플리케이션.codingTest.CT.CT22.ct01.Solution" />
         <item itemvalue="애플리케이션.codingTest.CT.CT_month_05.ct01.Solution" />
-        <item itemvalue="애플리케이션.codingTest.CT.CT19.ct05.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +285,10 @@
       <workItem from="1713353071622" duration="6972000" />
       <workItem from="1713621254215" duration="67000" />
       <workItem from="1713877702494" duration="395000" />
-      <workItem from="1713958301472" duration="1835000" />
+      <workItem from="1713958301472" duration="7100000" />
+      <workItem from="1714400193347" duration="92000" />
+      <workItem from="1714649637961" duration="7123000" />
+      <workItem from="1714831931081" duration="618000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -631,7 +633,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,9 +651,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CT08" />
-    <MESSAGE value="CT09" />
-    <MESSAGE value="CT10" />
     <MESSAGE value="CT_month_02" />
     <MESSAGE value="test" />
     <MESSAGE value="CT12" />
@@ -674,7 +673,10 @@
     <MESSAGE value="CT_FINAL_010203" />
     <MESSAGE value="CT_FINAL_04 05 06" />
     <MESSAGE value="CT_FINAL_07 08 09" />
-    <option name="LAST_COMMIT_MESSAGE" value="CT_FINAL_07 08 09" />
+    <MESSAGE value="CT_Study_03_01" />
+    <MESSAGE value="CT_Study_03_02" />
+    <MESSAGE value="CT_Study_03_03" />
+    <option name="LAST_COMMIT_MESSAGE" value="CT_Study_03_03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -888,6 +890,11 @@
           <url>file://$PROJECT_DIR$/src/codingTest/CT/CT07/ct04/Solution.java</url>
           <line>21</line>
           <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/studyCT/CT04/ct02/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/codingTest/preCT_00/ct05/ct05_05/Solution.java</url>
