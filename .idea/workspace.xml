@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT_Study_08">
-      <change afterPath="$PROJECT_DIR$/src/studyCT/CT09/ct01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studyCT/CT09/ct02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studyCT/CT10/ct01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studyCT/CT10/ct02/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,8 @@
     "애플리케이션.studyCT.CT03.ct01.Solution.executor": "Run",
     "애플리케이션.studyCT.CT08.Solution.executor": "Run",
     "애플리케이션.studyCT.CT09.ct01.Main.executor": "Run",
-    "애플리케이션.studyCT.CT09.ct02.Main.executor": "Run"
+    "애플리케이션.studyCT.CT09.ct02.Main.executor": "Run",
+    "애플리케이션.studyCT.CT10.ct02.Main.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -100,26 +101,13 @@
       <recent name="codingTest.CT.CT_FINAL.ct02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.studyCT.CT09.ct02.Main">
+  <component name="RunManager" selected="애플리케이션.studyCT.CT10.ct02.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="studyCT.CT04.ct02.Main" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="studyCT.CT04.ct02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="studyCT.CT03.ct01.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyCT.CT03.ct01.Solution" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="studyCT.CT03.ct01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,21 +154,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="studyCT.CT10.ct02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyCT.CT10.ct02.Main" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studyCT.CT10.ct02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.studyCT.CT10.ct02.Main" />
         <item itemvalue="애플리케이션.studyCT.CT09.ct02.Main" />
         <item itemvalue="애플리케이션.studyCT.CT09.ct01.Main" />
         <item itemvalue="애플리케이션.studyCT.CT08.Solution" />
         <item itemvalue="애플리케이션.Main" />
-        <item itemvalue="애플리케이션.studyCT.CT03.ct01.Solution" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
       </set>
     </attachedChunks>
   </component>
@@ -306,7 +307,8 @@
       <workItem from="1716639983597" duration="3256000" />
       <workItem from="1717415478024" duration="55000" />
       <workItem from="1717415745650" duration="3654000" />
-      <workItem from="1718104401196" duration="5771000" />
+      <workItem from="1718104401196" duration="5818000" />
+      <workItem from="1718708822194" duration="6004000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -651,7 +653,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
