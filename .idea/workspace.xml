@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="CT_Study_11- stack">
-      <change afterPath="$PROJECT_DIR$/src/studyCT/CT11/ct02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studyCT/CT11/ct03/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Main.executor": "Debug",
+    "애플리케이션.Main.executor": "Run",
     "애플리케이션.Solution.executor": "Debug",
     "애플리케이션.codingTest.CT.CT19.ct03.Solution.executor": "Run",
     "애플리케이션.codingTest.CT.CT19.ct05.Solution.executor": "Run",
@@ -101,13 +101,13 @@
       <recent name="codingTest.CT.CT_FINAL.ct02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.studyCT.CT11.ct02.Main">
-    <configuration name="studyCT.CT08.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyCT.CT08.Solution" />
+  <component name="RunManager" selected="애플리케이션.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyCT.CT11.ct03.Main" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studyCT.CT08.*" />
+          <option name="PATTERN" value="studyCT.CT11.ct03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.studyCT.CT11.ct02.Main" />
         <item itemvalue="애플리케이션.studyCT.CT10.ct02.Main" />
         <item itemvalue="애플리케이션.studyCT.CT09.ct02.Main" />
         <item itemvalue="애플리케이션.studyCT.CT09.ct01.Main" />
-        <item itemvalue="애플리케이션.studyCT.CT08.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -311,6 +311,7 @@
       <workItem from="1718708822194" duration="6034000" />
       <workItem from="1720018649004" duration="196000" />
       <workItem from="1720522968617" duration="3591000" />
+      <workItem from="1720528637673" duration="3796000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
