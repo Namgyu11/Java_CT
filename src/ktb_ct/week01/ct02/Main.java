@@ -14,19 +14,19 @@ public class Main {
             // 설탕 봉지의 최소 개수
             int count = 0;
 
-            while (N > 0){
-                  if(N % 5 == 0){
+            while (N > 0) {
+                  if (N % 5 == 0) {
                         count += N / 5;
                         N = 0;
                         break;
-                  }else {
+                  } else {
                         N -= 3;
                         count++;
                   }
             }
-            if(N < 0){
+            if (N < 0) {
                   System.out.println(-1);
-            }else {
+            } else {
                   System.out.println(count);
             }
       }
