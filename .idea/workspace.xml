@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="ktb_week01_ct03">
-      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week01/ct04/Main.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="ktb_week01_ct04">
+      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week02/ct01/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +78,7 @@
     "애플리케이션.ktb_ct.week01.ct02.Main.executor": "Run",
     "애플리케이션.ktb_ct.week01.ct03.Main.executor": "Run",
     "애플리케이션.ktb_ct.week01.ct04.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week02.ct01.Main.executor": "Run",
     "애플리케이션.studyCT.CT03.ct01.Solution.executor": "Run",
     "애플리케이션.studyCT.CT08.Solution.executor": "Run",
     "애플리케이션.studyCT.CT09.ct01.Main.executor": "Run",
@@ -105,20 +106,7 @@
       <recent name="codingTest.CT.CT_FINAL.ct02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ktb_ct.week01.ct04.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studyCT.CT11.ct03.Main" />
-      <module name="Java_CT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="studyCT.CT11.ct03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.ktb_ct.week02.ct01.Main">
     <configuration name="ktb_ct.week01.ct01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ktb_ct.week01.ct01.Main" />
       <module name="Java_CT" />
@@ -171,13 +159,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ktb_ct.week02.ct01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ktb_ct.week02.ct01.Main" />
+      <module name="Java_CT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ktb_ct.week02.ct01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ktb_ct.week02.ct01.Main" />
         <item itemvalue="애플리케이션.ktb_ct.week01.ct04.Main" />
         <item itemvalue="애플리케이션.ktb_ct.week01.ct03.Main" />
         <item itemvalue="애플리케이션.ktb_ct.week01.ct02.Main" />
         <item itemvalue="애플리케이션.ktb_ct.week01.ct01.Main" />
-        <item itemvalue="애플리케이션.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +322,8 @@
       <workItem from="1723429920964" duration="5523000" />
       <workItem from="1723515964164" duration="2988000" />
       <workItem from="1723602066425" duration="1568000" />
-      <workItem from="1723767546567" duration="1029000" />
+      <workItem from="1723767546567" duration="2630000" />
+      <workItem from="1724026910072" duration="793000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -666,7 +668,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -684,7 +686,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CT17 TEST" />
     <MESSAGE value="CT18" />
     <MESSAGE value="CT19" />
     <MESSAGE value="CT_month_05" />
@@ -709,7 +710,8 @@
     <MESSAGE value="ktb_week01_ct01" />
     <MESSAGE value="ktb_week01_ct02" />
     <MESSAGE value="ktb_week01_ct03" />
-    <option name="LAST_COMMIT_MESSAGE" value="ktb_week01_ct03" />
+    <MESSAGE value="ktb_week01_ct04" />
+    <option name="LAST_COMMIT_MESSAGE" value="ktb_week01_ct04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
