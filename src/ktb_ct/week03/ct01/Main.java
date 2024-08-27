@@ -1,44 +1,38 @@
 package ktb_ct.week03.ct01;
 
-
 import java.io.*;
 import java.util.*;
 
-// 백트레킹
-// 1. N과 M
 public class Main {
-
-
     public static void main(String[] args) throws IOException {
-
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
 
-        boolean[] visited = new boolean[N];
-        int[] arr = new int[M];
+        boolean[] visited = new boolean[N + 1];
+        int[] result = new int[M];
 
-        backtracking(N, M, 0, visited, arr);
+        backtrack(N, M, 0, visited, result);
     }
 
-    private static void backtracking(int N, int M, int depth, boolean[] visited, int[] arr) {
+    public static void backtrack(int N, int M, int depth, boolean[] visited, int[] result) {
         if (depth == M) {
             for (int i = 0; i < M; i++) {
-                System.out.print(arr[i] + " ");
+                System.out.print(result[i] + " ");
             }
-            for (int i = 1; i <= N; i++) {
-                if (!visited[i - 1]) {
-                    visited[i - 1] = true;
-                    arr[depth] = i;
-                    backtracking(N, M, depth + 1, visited, arr);
-                    visited[i - 1] = false;
-                }
-            }
-
+            System.out.println();
+            return;
         }
 
+        for (int i = 1; i <= N; i++) {
+            if (!visited[i]) {
+                visited[i] = true;
+                result[depth] = i;
+                backtrack(N, M, depth + 1, visited, result);
+                visited[i] = false;
+            }
+        }
     }
-
 }
