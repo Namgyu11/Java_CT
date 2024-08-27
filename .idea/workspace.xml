@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="ktb_week02_ct02">
-      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week02/ct03/Main.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="ktb_week02_ct03">
+      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week02/ct03/Test123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week03/ct01/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,13 +107,13 @@
       <recent name="codingTest.CT.CT_FINAL.ct02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ktb_ct.week02.ct01.Main">
-    <configuration name="ktb_ct.week01.ct01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ktb_ct.week01.ct01.Main" />
+  <component name="RunManager" selected="애플리케이션.Test123">
+    <configuration name="Test123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ktb_ct.week02.ct03.Test123" />
       <module name="Java_CT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ktb_ct.week01.ct01.*" />
+          <option name="PATTERN" value="ktb_ct.week02.ct03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Test123" />
         <item itemvalue="애플리케이션.ktb_ct.week02.ct01.Main" />
         <item itemvalue="애플리케이션.ktb_ct.week01.ct04.Main" />
         <item itemvalue="애플리케이션.ktb_ct.week01.ct03.Main" />
         <item itemvalue="애플리케이션.ktb_ct.week01.ct02.Main" />
-        <item itemvalue="애플리케이션.ktb_ct.week01.ct01.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +327,8 @@
       <workItem from="1724026910072" duration="954000" />
       <workItem from="1724113355227" duration="1193000" />
       <workItem from="1724200380225" duration="1254000" />
+      <workItem from="1724286725492" duration="298000" />
+      <workItem from="1724718650767" duration="1424000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -670,7 +673,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -688,7 +691,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CT_month_05" />
     <MESSAGE value="CT_20" />
     <MESSAGE value="CT_21" />
     <MESSAGE value="CT_22" />
@@ -713,7 +715,8 @@
     <MESSAGE value="ktb_week01_ct04" />
     <MESSAGE value="ktb_week02_ct01" />
     <MESSAGE value="ktb_week02_ct02" />
-    <option name="LAST_COMMIT_MESSAGE" value="ktb_week02_ct02" />
+    <MESSAGE value="ktb_week02_ct03" />
+    <option name="LAST_COMMIT_MESSAGE" value="ktb_week02_ct03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
