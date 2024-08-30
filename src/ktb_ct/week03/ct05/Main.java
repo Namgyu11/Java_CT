@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Main {
     static int[][] board = new int[19][19];
-    static int[] dx = {1, 0, 1, 1}; // 가로, 세로, 대각선(우하향), 대각선(좌하향)
+    static int[] dx = {1, 0, 1, 1};
     static int[] dy = {0, 1, 1, -1};
 
     public static void main(String[] args) throws IOException {
@@ -17,7 +17,7 @@ public class Main {
             StringTokenizer st = new StringTokenizer(br.readLine());
             int x = Integer.parseInt(st.nextToken()) - 1;
             int y = Integer.parseInt(st.nextToken()) - 1;
-            board[x][y] = (i % 2 == 1) ? 1 : 2; // 1: 흑, 2: 백
+            board[x][y] = (i % 2 == 1) ? 1 : 2;
 
             if (checkWin(x, y)) {
                 result = i;
