@@ -27,6 +27,7 @@ public class Main {
             dp[i] = Math.max(dp[i - 2], dp[i - 3] + scores[i - 1]) + scores[i];
         }
 
+
         System.out.println(dp[n]);
     }
 
