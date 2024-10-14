@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session02">
-      <change afterPath="$PROJECT_DIR$/src/inflearn/session02/ct10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearn/session02/ct11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/session02/ct10/Action.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -356,6 +355,7 @@
       <workItem from="1727065060165" duration="2785000" />
       <workItem from="1727138202510" duration="1071000" />
       <workItem from="1727241333046" duration="30820000" />
+      <workItem from="1728900577904" duration="4580000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
