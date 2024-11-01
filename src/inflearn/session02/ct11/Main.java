@@ -13,9 +13,25 @@ public class Main {
         StringBuilder compressed = new StringBuilder();
 
         int count = 1;
-        for (int i = 0; i < ; i++) {
-
+        for (int i = 1; i < str.length(); i++) {
+            if(str.charAt(i) == str.charAt(i - 1)){
+                count++;
+            }else {
+                compressed.append(str.charAt(i -1));
+                if(count > 1){
+                    compressed.append(count);
+                }
+                count = 1;
+            }
         }
+
+        compressed.append(str.charAt(str.length()-1));
+
+        if(count > 1){
+            compressed.append(count);
+        }
+
+        System.out.println(compressed);
     }
 
 }
