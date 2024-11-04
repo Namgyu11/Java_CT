@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session02_13">
-      <change afterPath="$PROJECT_DIR$/src/inflearn/session03/ct02/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -358,7 +356,7 @@
       <workItem from="1728900577904" duration="5834000" />
       <workItem from="1729001272196" duration="14415000" />
       <workItem from="1729344877500" duration="46897000" />
-      <workItem from="1730467617778" duration="12236000" />
+      <workItem from="1730467617778" duration="19411000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -703,7 +701,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -721,7 +719,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CT_Study_08" />
     <MESSAGE value="CT_Study_10" />
     <MESSAGE value="CT_Study_11- stack" />
     <MESSAGE value="CT_Study_12- BFS" />
@@ -746,7 +743,8 @@
     <MESSAGE value="inflearn_session02_11" />
     <MESSAGE value="inflearn_session02_12" />
     <MESSAGE value="inflearn_session02_13" />
-    <option name="LAST_COMMIT_MESSAGE" value="inflearn_session02_13" />
+    <MESSAGE value="inflearn_session03_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="inflearn_session03_02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
