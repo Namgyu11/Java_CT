@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_02" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_02">
+      <change afterPath="$PROJECT_DIR$/src/studyCT/CT10/ct01/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studyCT/CT10/ct02/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,11 +112,11 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="studyCT.CT04.ct01" />
+      <recent name="studyCT.CT03.ct01" />
+      <recent name="studyCT.CT03" />
+      <recent name="studyCT.CT01" />
       <recent name="inflearn.session03.ct02" />
-      <recent name="inflearn.session03.ct01" />
-      <recent name="codingTest.CT.CT_FINAL.ct06" />
-      <recent name="codingTest.CT.CT_FINAL.ct05" />
-      <recent name="codingTest.CT.CT_FINAL.ct04" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.inflearn.session03.ct02.Main">
@@ -358,6 +362,8 @@
       <workItem from="1729344877500" duration="46897000" />
       <workItem from="1730467617778" duration="19411000" />
       <workItem from="1730729575490" duration="2770000" />
+      <workItem from="1730817006263" duration="2166000" />
+      <workItem from="1731050678153" duration="1270000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -702,7 +708,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
