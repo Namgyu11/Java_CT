@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_03">
-      <change afterPath="$PROJECT_DIR$/src/inflearn/session03/ct04/Main.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_04">
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_09/Action.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,11 +116,11 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="studyCT.CT10.ct02" />
-      <recent name="studyCT.CT10.ct01" />
-      <recent name="studyCT.CT04.ct01" />
-      <recent name="studyCT.CT03.ct01" />
-      <recent name="studyCT.CT03" />
+      <recent name="parctice.linearDS_09" />
+      <recent name="parctice.linearDS_06" />
+      <recent name="parctice.linearDS_02" />
+      <recent name="inflearn.session03.ct04" />
+      <recent name="inflearn.session03.ct03" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.inflearn.session03.ct02.Main">
@@ -365,7 +367,7 @@
       <workItem from="1730467617778" duration="19411000" />
       <workItem from="1730729575490" duration="2770000" />
       <workItem from="1730817006263" duration="2166000" />
-      <workItem from="1731050678153" duration="22967000" />
+      <workItem from="1731050678153" duration="25172000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -710,7 +712,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -728,7 +730,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CT_Study_11- stack" />
     <MESSAGE value="CT_Study_12- BFS" />
     <MESSAGE value="ktb_week01_ct01" />
     <MESSAGE value="ktb_week01_ct02" />
@@ -753,7 +754,8 @@
     <MESSAGE value="inflearn_session02_13" />
     <MESSAGE value="inflearn_session03_02" />
     <MESSAGE value="inflearn_session03_03" />
-    <option name="LAST_COMMIT_MESSAGE" value="inflearn_session03_03" />
+    <MESSAGE value="inflearn_session03_04" />
+    <option name="LAST_COMMIT_MESSAGE" value="inflearn_session03_04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
