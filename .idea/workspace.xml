@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_04">
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_02/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_06/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/linearDS_09/Action.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inflearn/session03/ct05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/session03/ct05/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,11 +114,11 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ktb_ct.week02.ct03" />
+      <recent name="ktb_ct.week02.ct02" />
+      <recent name="ktb_ct.week02.ct01" />
       <recent name="parctice.linearDS_09" />
       <recent name="parctice.linearDS_06" />
-      <recent name="parctice.linearDS_02" />
-      <recent name="inflearn.session03.ct04" />
-      <recent name="inflearn.session03.ct03" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.inflearn.session03.ct02.Main">
@@ -367,7 +365,8 @@
       <workItem from="1730467617778" duration="19411000" />
       <workItem from="1730729575490" duration="2770000" />
       <workItem from="1730817006263" duration="2166000" />
-      <workItem from="1731050678153" duration="25172000" />
+      <workItem from="1731050678153" duration="33710000" />
+      <workItem from="1731459820254" duration="4887000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -712,7 +711,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
