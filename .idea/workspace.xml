@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_04">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_05/ct01/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_05/ct02/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT_month_05/ct03/Action.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_04" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -368,7 +363,7 @@
       <workItem from="1731459820254" duration="4887000" />
       <workItem from="1732010774979" duration="742000" />
       <workItem from="1732174613588" duration="7314000" />
-      <workItem from="1732709052152" duration="14009000" />
+      <workItem from="1732709052152" duration="15610000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -713,7 +708,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
