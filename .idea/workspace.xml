@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_04">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct07/ct07_01/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct07/ct07_02/Action.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_00/ct04/ct04_04/Action.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,11 +110,11 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="codingTest.preCT_00.ct04.ct04_05" />
+      <recent name="codingTest.preCT_00.ct04.ct04_04" />
       <recent name="codingTest.preCT_00.ct07.ct07_02" />
       <recent name="codingTest.preCT_00.ct07.ct07_01" />
       <recent name="codingTest.preCT_00.ct06" />
-      <recent name="codingTest.preCT_00.ct05.ct05_05" />
-      <recent name="codingTest.preCT_00.ct05.ct05_04" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.inflearn.session03.ct02.Main">
@@ -369,7 +367,7 @@
       <workItem from="1732174613588" duration="7314000" />
       <workItem from="1732709052152" duration="15610000" />
       <workItem from="1733404498066" duration="3766000" />
-      <workItem from="1733492569888" duration="5216000" />
+      <workItem from="1733492569888" duration="5979000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -714,7 +712,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
