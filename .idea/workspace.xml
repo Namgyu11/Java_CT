@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_04">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT22/ct01/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/CT/CT22/ct02/Action.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_04" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,58 +44,58 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/냄규/Java_CT/src/codingTest/preCT_00/ct04&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Solution.executor&quot;: &quot;Debug&quot;,
-    &quot;애플리케이션.codingTest.CT.CT19.ct03.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.codingTest.CT.CT19.ct05.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.codingTest.CT.CT22.ct01.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.codingTest.CT.CT_month_05.ct01.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.inflearn.session02.ct02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.inflearn.session02.ct03.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.inflearn.session02.ct05.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.inflearn.session02.ct07.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.inflearn.session02.ct08.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.inflearn.session03.ct02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ktb_ct.week01.ct01.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ktb_ct.week01.ct02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ktb_ct.week01.ct03.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ktb_ct.week01.ct04.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ktb_ct.week02.ct01.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ktb_ct.week03.ct04.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ktb_ct.week04.ct01.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ktb_ct.week05.ct02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ktb_ct.week06.ct02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.studyCT.CT03.ct01.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.studyCT.CT08.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.studyCT.CT09.ct01.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.studyCT.CT09.ct02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.studyCT.CT10.ct02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.studyCT.CT11.ct02.Main.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.Solution.executor": "Debug",
+    "애플리케이션.codingTest.CT.CT19.ct03.Solution.executor": "Run",
+    "애플리케이션.codingTest.CT.CT19.ct05.Solution.executor": "Run",
+    "애플리케이션.codingTest.CT.CT22.ct01.Solution.executor": "Run",
+    "애플리케이션.codingTest.CT.CT_month_05.ct01.Solution.executor": "Run",
+    "애플리케이션.inflearn.session02.ct02.Main.executor": "Run",
+    "애플리케이션.inflearn.session02.ct03.Main.executor": "Run",
+    "애플리케이션.inflearn.session02.ct05.Main.executor": "Run",
+    "애플리케이션.inflearn.session02.ct07.Main.executor": "Run",
+    "애플리케이션.inflearn.session02.ct08.Main.executor": "Run",
+    "애플리케이션.inflearn.session03.ct02.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week01.ct01.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week01.ct02.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week01.ct03.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week01.ct04.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week02.ct01.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week03.ct04.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week04.ct01.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week05.ct02.Main.executor": "Run",
+    "애플리케이션.ktb_ct.week06.ct02.Main.executor": "Run",
+    "애플리케이션.studyCT.CT03.ct01.Solution.executor": "Run",
+    "애플리케이션.studyCT.CT08.Solution.executor": "Run",
+    "애플리케이션.studyCT.CT09.ct01.Main.executor": "Run",
+    "애플리케이션.studyCT.CT09.ct02.Main.executor": "Run",
+    "애플리케이션.studyCT.CT10.ct02.Main.executor": "Run",
+    "애플리케이션.studyCT.CT11.ct02.Main.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\codingTest\preCT_00\ct04" />
@@ -111,11 +108,11 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ktb_ct.week05.ct02" />
+      <recent name="ktb_ct.week04.ct02" />
+      <recent name="ktb_ct.week04.ct01" />
       <recent name="codingTest.CT.CT22.ct02" />
       <recent name="codingTest.CT.CT22.ct01" />
-      <recent name="codingTest.preCT_00.ct03.ct03_02" />
-      <recent name="codingTest.preCT_00.ct03.ct03_03" />
-      <recent name="codingTest.preCT_00.ct03.ct03_04" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.inflearn.session03.ct02.Main">
@@ -369,6 +366,7 @@
       <workItem from="1732709052152" duration="15610000" />
       <workItem from="1733404498066" duration="3766000" />
       <workItem from="1733492569888" duration="12164000" />
+      <workItem from="1735224730019" duration="1837000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -713,7 +711,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
