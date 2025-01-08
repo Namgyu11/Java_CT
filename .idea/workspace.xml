@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_06">
-      <change afterPath="$PROJECT_DIR$/src/inflearn/session03/ct07/Main.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_07">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,11 +110,11 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="inflearn.session03.ct07" />
+      <recent name="inflearn.session03.ct06" />
+      <recent name="inflearn.session03.ct05" />
       <recent name="ktb_ct.week03.ct04" />
       <recent name="ktb_ct.week03.ct03" />
-      <recent name="ktb_ct.week03.ct01" />
-      <recent name="ktb_ct.week05.ct02" />
-      <recent name="ktb_ct.week04.ct02" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.inflearn.session03.ct06.Main">
@@ -372,7 +372,7 @@
       <workItem from="1735397589606" duration="801000" />
       <workItem from="1735482941735" duration="21428000" />
       <workItem from="1735652529900" duration="941000" />
-      <workItem from="1735653825424" duration="5254000" />
+      <workItem from="1735653825424" duration="9011000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -717,7 +717,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="181" />
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -735,7 +735,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ktb_week01_ct02" />
     <MESSAGE value="ktb_week01_ct03" />
     <MESSAGE value="ktb_week01_ct04" />
     <MESSAGE value="ktb_week02_ct01" />
@@ -760,7 +759,8 @@
     <MESSAGE value="inflearn_session03_04" />
     <MESSAGE value="inflearn_session03_05" />
     <MESSAGE value="inflearn_session03_06" />
-    <option name="LAST_COMMIT_MESSAGE" value="inflearn_session03_06" />
+    <MESSAGE value="inflearn_session03_07" />
+    <option name="LAST_COMMIT_MESSAGE" value="inflearn_session03_07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
