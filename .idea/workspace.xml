@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_07" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_07">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,11 +110,11 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ktb_ct.week01.ct03" />
-      <recent name="ktb_ct.week01.ct02" />
-      <recent name="ktb_ct.week01.ct01" />
-      <recent name="inflearn.session03.ct07" />
-      <recent name="inflearn.session03.ct06" />
+      <recent name="codingTest.CT.CT21.ct05" />
+      <recent name="codingTest.CT.CT21.ct04" />
+      <recent name="codingTest.CT.CT21.ct03" />
+      <recent name="codingTest.CT.CT21.ct02" />
+      <recent name="codingTest.CT.CT21.ct01" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.inflearn.session03.ct06.Main">
@@ -372,6 +374,8 @@
       <workItem from="1735652529900" duration="941000" />
       <workItem from="1735653825424" duration="9011000" />
       <workItem from="1736347998683" duration="639000" />
+      <workItem from="1736518076992" duration="3736000" />
+      <workItem from="1736949409723" duration="65000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -716,7 +720,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
