@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="inflearn_session03_07">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/bj/bj20055/Main.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="백준 20055, 컨베이어 벨트 위의 로봇">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +36,9 @@
 }</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="없음" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -382,7 +384,7 @@
       <workItem from="1737469502903" duration="2405000" />
       <workItem from="1737556908743" duration="4397000" />
       <workItem from="1737814672697" duration="3102000" />
-      <workItem from="1737899261825" duration="331000" />
+      <workItem from="1737899261825" duration="4273000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -727,7 +729,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -745,7 +747,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ktb_week01_ct03" />
     <MESSAGE value="ktb_week01_ct04" />
     <MESSAGE value="ktb_week02_ct01" />
     <MESSAGE value="ktb_week02_ct02" />
@@ -770,7 +771,8 @@
     <MESSAGE value="inflearn_session03_05" />
     <MESSAGE value="inflearn_session03_06" />
     <MESSAGE value="inflearn_session03_07" />
-    <option name="LAST_COMMIT_MESSAGE" value="inflearn_session03_07" />
+    <MESSAGE value="백준 20055, 컨베이어 벨트 위의 로봇" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 20055, 컨베이어 벨트 위의 로봇" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
