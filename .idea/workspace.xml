@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="백준 20055, 컨베이어 벨트 위의 로봇">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/inflearn/session03/ct08/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/try-and-review",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/bj/bj20055",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,7 +71,7 @@
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
+    "settings.editor.selected.configurable": "ml.llm.AIAssistantPromptsLibrary",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Solution.executor": "Debug",
@@ -104,11 +105,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj20055" />
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj25556" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\CT\CT20\ct01" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\codingTest\preCT_00\ct04" />
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\codingTest\preCT_00\ct03" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\codingTest\CT\CT_FINAL" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\codingTest\preCT_03\preCT_03_05" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -384,7 +385,7 @@
       <workItem from="1737469502903" duration="2405000" />
       <workItem from="1737556908743" duration="4397000" />
       <workItem from="1737814672697" duration="3102000" />
-      <workItem from="1737899261825" duration="4273000" />
+      <workItem from="1737899261825" duration="9868000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -729,7 +730,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -757,7 +758,6 @@
     <MESSAGE value="ktb_week03_ct05" />
     <MESSAGE value="ktb_week04_ct01" />
     <MESSAGE value="ktb_week04_ct02" />
-    <MESSAGE value="test" />
     <MESSAGE value="CT05" />
     <MESSAGE value="week05_ct02" />
     <MESSAGE value="week05_test" />
@@ -772,7 +772,8 @@
     <MESSAGE value="inflearn_session03_06" />
     <MESSAGE value="inflearn_session03_07" />
     <MESSAGE value="백준 20055, 컨베이어 벨트 위의 로봇" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 20055, 컨베이어 벨트 위의 로봇" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
