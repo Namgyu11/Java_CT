@@ -3,6 +3,8 @@ package codingTest.bj.bj15684;
 import java.io.*;
 import java.util.*;
 
+// 백준-15684 사다리 조작
+// 2025.01.31 다시 풀기
 public class Main {
 	static int n, m;
 	static int h;
