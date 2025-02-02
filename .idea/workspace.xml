@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="bj_15684">
-      <change beforePath="$PROJECT_DIR$/src/codingTest/bj/bj15684/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/bj/bj15684/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/bj/bj15686/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/bj/bj20055",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/bj/bj10818",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,11 +106,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj10818" />
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj11724" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj20055" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj25556" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\CT\CT20\ct01" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\codingTest\preCT_00\ct04" />
-      <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\codingTest\preCT_00\ct03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -385,7 +386,7 @@
       <workItem from="1737469502903" duration="2405000" />
       <workItem from="1737556908743" duration="4397000" />
       <workItem from="1737814672697" duration="3102000" />
-      <workItem from="1737899261825" duration="28128000" />
+      <workItem from="1737899261825" duration="37833000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -730,7 +731,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="196" />
+    <option name="localTasksCounter" value="197" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
