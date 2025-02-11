@@ -14,7 +14,6 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        // 입력 처리
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
         x = Integer.parseInt(st.nextToken());
@@ -33,13 +32,11 @@ public class Main {
         StringBuilder sb = new StringBuilder();
 
         while (st.hasMoreTokens()) {
-            int dir = Integer.parseInt(st.nextToken()) - 1; // 0-based index
+            int dir = Integer.parseInt(st.nextToken()) - 1;
 
-            // Step 1: 이동할 위치 계산
             int nx = x + dx[dir];
             int ny = y + dy[dir];
 
-            // 지도 밖이면 무시
             if (nx < 0 || ny < 0 || nx >= N || ny >= M) {
                 continue;
             }
