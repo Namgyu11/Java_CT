@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="bj_15686" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_다단계칫솔판매" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250203_0000",
+    "com.google.cloudcode.ide_session_index": "20250207_0000",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -113,11 +113,11 @@
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="codingTest.preCT_01.preCT_02.ct04" />
       <recent name="codingTest.CT.CT19.ct05" />
       <recent name="codingTest.CT.CT19.ct04" />
       <recent name="codingTest.CT.CT19.ct03" />
       <recent name="codingTest.CT.CT19.ct02" />
-      <recent name="codingTest.CT.CT19.ct01" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.inflearn.session03.ct09.Main">
@@ -383,7 +383,7 @@
       <workItem from="1737469502903" duration="2405000" />
       <workItem from="1737556908743" duration="4397000" />
       <workItem from="1737814672697" duration="3102000" />
-      <workItem from="1737899261825" duration="39067000" />
+      <workItem from="1737899261825" duration="52698000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -728,7 +728,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <option name="localTasksCounter" value="204" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -746,11 +746,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ktb_week03_ct01" />
-    <MESSAGE value="ktb_week03_ct03" />
-    <MESSAGE value="ktb_week03_ct04" />
-    <MESSAGE value="ktb_week03_ct05" />
-    <MESSAGE value="ktb_week04_ct01" />
     <MESSAGE value="ktb_week04_ct02" />
     <MESSAGE value="CT05" />
     <MESSAGE value="week05_ct02" />
@@ -771,7 +766,12 @@
     <MESSAGE value="inflearn_session03_ct09" />
     <MESSAGE value="bj_15684" />
     <MESSAGE value="bj_15686" />
-    <option name="LAST_COMMIT_MESSAGE" value="bj_15686" />
+    <MESSAGE value="pro_연속 펄스 부분 수열의 합" />
+    <MESSAGE value="pro_표현 가능한 이진트리" />
+    <MESSAGE value="pro_부대복귀" />
+    <MESSAGE value="pro_풍선터트리기" />
+    <MESSAGE value="pro_다단계칫솔판매" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_다단계칫솔판매" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
