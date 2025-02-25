@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_등산코스 정하기" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250219_0001",
+    "com.google.cloudcode.ide_session_index": "20250224_0000",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -65,7 +67,7 @@
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "ml.llm.AIAssistantPromptsLibrary",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Solution.executor": "Debug",
@@ -382,6 +384,8 @@
       <workItem from="1737814672697" duration="3102000" />
       <workItem from="1737899261825" duration="52698000" />
       <workItem from="1739287109401" duration="18355000" />
+      <workItem from="1739976645938" duration="16907000" />
+      <workItem from="1740405757224" duration="176000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -726,7 +730,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="211" />
+    <option name="localTasksCounter" value="216" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -744,11 +748,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="inflearn_session02_11" />
-    <MESSAGE value="inflearn_session02_12" />
-    <MESSAGE value="inflearn_session02_13" />
-    <MESSAGE value="inflearn_session03_02" />
-    <MESSAGE value="inflearn_session03_03" />
     <MESSAGE value="inflearn_session03_04" />
     <MESSAGE value="inflearn_session03_05" />
     <MESSAGE value="inflearn_session03_06" />
@@ -769,7 +768,12 @@
     <MESSAGE value="pro_양과늑대" />
     <MESSAGE value="pro_스타수열" />
     <MESSAGE value="pro_등산코스 정하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_등산코스 정하기" />
+    <MESSAGE value="pro_카운트다운" />
+    <MESSAGE value="pro_표병합" />
+    <MESSAGE value="pro_아이템줍기" />
+    <MESSAGE value="pro_석유시추" />
+    <MESSAGE value="pro_양궁대회" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_양궁대회" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
