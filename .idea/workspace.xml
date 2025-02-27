@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_지게차와 크레인">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/lv2/완전범죄/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250224_0000",
+    "com.google.cloudcode.ide_session_index": "20250227_0000",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -67,7 +68,7 @@
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Solution.executor": "Debug",
@@ -189,9 +190,9 @@
       <list>
         <item itemvalue="애플리케이션.inflearn.session03.ct09.Main" />
         <item itemvalue="애플리케이션.inflearn.session03.ct06.Main" />
-        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.inflearn.session03.ct02.Main" />
         <item itemvalue="애플리케이션.inflearn.session02.ct08.Main" />
+        <item itemvalue="애플리케이션.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +386,8 @@
       <workItem from="1737899261825" duration="52698000" />
       <workItem from="1739287109401" duration="18355000" />
       <workItem from="1739976645938" duration="16907000" />
-      <workItem from="1740405757224" duration="176000" />
+      <workItem from="1740405757224" duration="2824000" />
+      <workItem from="1740665361811" duration="654000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -730,7 +732,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <option name="localTasksCounter" value="217" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -748,7 +750,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="inflearn_session03_04" />
     <MESSAGE value="inflearn_session03_05" />
     <MESSAGE value="inflearn_session03_06" />
     <MESSAGE value="inflearn_session03_07" />
@@ -773,7 +774,8 @@
     <MESSAGE value="pro_아이템줍기" />
     <MESSAGE value="pro_석유시추" />
     <MESSAGE value="pro_양궁대회" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_양궁대회" />
+    <MESSAGE value="pro_지게차와 크레인" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_지게차와 크레인" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
