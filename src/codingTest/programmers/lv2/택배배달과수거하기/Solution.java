@@ -1,4 +1,4 @@
-package codingTest.programmers.lv2택배배달과수거하기;
+package codingTest.programmers.lv2.택배배달과수거하기;
 
 import java.util.*;
 
