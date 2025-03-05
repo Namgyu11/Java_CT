@@ -1,7 +1,5 @@
 package codingTest.programmers.lv3.파괴되지않은건물;
 
-import java.util.*;
-
 class Solution {
     public int solution(int[][] board, int[][] skill) {
         int n = board.length;
