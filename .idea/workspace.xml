@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_파괴되지 않은 건물">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_합승 택시 요금">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,9 @@
 }</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="없음" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -387,7 +390,7 @@
       <workItem from="1739976645938" duration="16907000" />
       <workItem from="1740405757224" duration="2824000" />
       <workItem from="1740665361811" duration="7189000" />
-      <workItem from="1741098853339" duration="4136000" />
+      <workItem from="1741098853339" duration="6047000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -732,7 +735,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="224" />
+    <option name="localTasksCounter" value="225" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -750,7 +753,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
     <MESSAGE value="inflearn_session03_ct08" />
     <MESSAGE value="inflearn_session03_ct09" />
     <MESSAGE value="bj_15684" />
@@ -775,7 +777,8 @@
     <MESSAGE value="pro_택배 배달과 수거하기" />
     <MESSAGE value="pro_k진수에서 소수 개수 구하기" />
     <MESSAGE value="pro_파괴되지 않은 건물" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_파괴되지 않은 건물" />
+    <MESSAGE value="pro_합승 택시 요금" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_합승 택시 요금" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
