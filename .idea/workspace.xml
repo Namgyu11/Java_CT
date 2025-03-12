@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_이모티콘 할인행사">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_메뉴 리뉴얼">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -390,7 +390,7 @@
       <workItem from="1739976645938" duration="16907000" />
       <workItem from="1740405757224" duration="2824000" />
       <workItem from="1740665361811" duration="7189000" />
-      <workItem from="1741098853339" duration="12169000" />
+      <workItem from="1741098853339" duration="12832000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -735,7 +735,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="229" />
+    <option name="localTasksCounter" value="230" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -753,7 +753,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_연속 펄스 부분 수열의 합" />
     <MESSAGE value="pro_표현 가능한 이진트리" />
     <MESSAGE value="pro_부대복귀" />
     <MESSAGE value="pro_풍선터트리기" />
@@ -778,7 +777,8 @@
     <MESSAGE value="pro_퍼즐 게임 챌린지" />
     <MESSAGE value="pro_순위 검색" />
     <MESSAGE value="pro_이모티콘 할인행사" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_이모티콘 할인행사" />
+    <MESSAGE value="pro_메뉴 리뉴얼" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_메뉴 리뉴얼" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
