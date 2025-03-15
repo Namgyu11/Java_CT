@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_서버 증설 횟수" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,11 +50,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250314_0000",
+    "com.google.cloudcode.ide_session_index": "20250315_0000",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/pro",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_03/preCT_03_04",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -100,11 +100,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_04" />
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_05" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\pro" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj10818" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj11724" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj20055" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj25556" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -387,6 +387,7 @@
       <workItem from="1740665361811" duration="7189000" />
       <workItem from="1741098853339" duration="12832000" />
       <workItem from="1741789726010" duration="3897000" />
+      <workItem from="1742044855989" duration="641000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -731,7 +732,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="232" />
+    <option name="localTasksCounter" value="233" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -772,9 +773,9 @@
     <MESSAGE value="pro_순위 검색" />
     <MESSAGE value="pro_이모티콘 할인행사" />
     <MESSAGE value="pro_메뉴 리뉴얼" />
-    <MESSAGE value="pro_" />
     <MESSAGE value="pro_서버 증설 횟수" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_서버 증설 횟수" />
+    <MESSAGE value="pro_" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
