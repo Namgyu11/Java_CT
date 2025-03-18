@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_코딩 테스트 공부">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_봉인된 주문">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250315_0000",
+    "com.google.cloudcode.ide_session_index": "20250318_0000",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -392,7 +392,7 @@
       <workItem from="1740665361811" duration="7189000" />
       <workItem from="1741098853339" duration="12832000" />
       <workItem from="1741789726010" duration="3897000" />
-      <workItem from="1742044855989" duration="2278000" />
+      <workItem from="1742044855989" duration="9569000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -737,7 +737,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="234" />
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -755,7 +755,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_다단계칫솔판매" />
     <MESSAGE value="bj_14499" />
     <MESSAGE value="pro_가장긴팰린드롬" />
     <MESSAGE value="pro_양과늑대" />
@@ -780,7 +779,8 @@
     <MESSAGE value="pro_서버 증설 횟수" />
     <MESSAGE value="pro_" />
     <MESSAGE value="pro_코딩 테스트 공부" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_코딩 테스트 공부" />
+    <MESSAGE value="pro_봉인된 주문" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_봉인된 주문" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
