@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_도넛과막대그래프">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_카드 짝 맞추기">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/lv3/n1카드게임/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +53,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250325_0001",
+    "com.google.cloudcode.ide_session_index": "20250326_0000",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_03/preCT_03_05/ct05",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_03/preCT_03_05/ct04",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,11 +103,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_05\ct04" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_05\ct05" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_04" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_05" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\pro" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\bj\bj10818" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -390,7 +391,8 @@
       <workItem from="1741098853339" duration="12832000" />
       <workItem from="1741789726010" duration="3897000" />
       <workItem from="1742044855989" duration="24182000" />
-      <workItem from="1742563720378" duration="21203000" />
+      <workItem from="1742563720378" duration="21561000" />
+      <workItem from="1742998292148" duration="7455000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -735,7 +737,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="242" />
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -753,7 +755,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_카운트다운" />
     <MESSAGE value="pro_표병합" />
     <MESSAGE value="pro_아이템줍기" />
     <MESSAGE value="pro_석유시추" />
@@ -778,7 +779,8 @@
     <MESSAGE value="pro_비밀 코드 해독" />
     <MESSAGE value="pro_주차 요금 계산" />
     <MESSAGE value="pro_도넛과막대그래프" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_도넛과막대그래프" />
+    <MESSAGE value="pro_카드 짝 맞추기" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_카드 짝 맞추기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
