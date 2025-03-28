@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_카드 짝 맞추기">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/lv3/n1카드게임/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_n + 1 카드게임">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/lv3/주사위고르기/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -392,7 +392,7 @@
       <workItem from="1741789726010" duration="3897000" />
       <workItem from="1742044855989" duration="24182000" />
       <workItem from="1742563720378" duration="21561000" />
-      <workItem from="1742998292148" duration="7455000" />
+      <workItem from="1742998292148" duration="11390000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -737,7 +737,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="244" />
+    <option name="localTasksCounter" value="245" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -755,7 +755,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_표병합" />
     <MESSAGE value="pro_아이템줍기" />
     <MESSAGE value="pro_석유시추" />
     <MESSAGE value="pro_양궁대회" />
@@ -780,7 +779,8 @@
     <MESSAGE value="pro_주차 요금 계산" />
     <MESSAGE value="pro_도넛과막대그래프" />
     <MESSAGE value="pro_카드 짝 맞추기" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_카드 짝 맞추기" />
+    <MESSAGE value="pro_n + 1 카드게임" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_n + 1 카드게임" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
