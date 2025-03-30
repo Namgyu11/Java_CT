@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_n + 1 카드게임">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/lv3/주사위고르기/Solution.java" afterDir="false" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_주사위 고르기">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/lv3/수식복원하기/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="없음" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -53,7 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250326_0000",
+    "com.google.cloudcode.ide_session_index": "20250328_0000",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -392,7 +395,7 @@
       <workItem from="1741789726010" duration="3897000" />
       <workItem from="1742044855989" duration="24182000" />
       <workItem from="1742563720378" duration="21561000" />
-      <workItem from="1742998292148" duration="11390000" />
+      <workItem from="1742998292148" duration="12999000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -737,7 +740,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="245" />
+    <option name="localTasksCounter" value="246" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -755,7 +758,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_아이템줍기" />
     <MESSAGE value="pro_석유시추" />
     <MESSAGE value="pro_양궁대회" />
     <MESSAGE value="pro_지게차와 크레인" />
@@ -780,7 +782,8 @@
     <MESSAGE value="pro_도넛과막대그래프" />
     <MESSAGE value="pro_카드 짝 맞추기" />
     <MESSAGE value="pro_n + 1 카드게임" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_n + 1 카드게임" />
+    <MESSAGE value="pro_주사위 고르기" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_주사위 고르기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
