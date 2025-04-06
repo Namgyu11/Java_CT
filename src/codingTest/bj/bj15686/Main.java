@@ -1,6 +1,6 @@
 package codingTest.bj.bj15686;
 
-// 백준 15686, 치킨 배달
+// 백준 15686, 치킨 배달-
 import java.io.*;
 import java.util.*;
 
