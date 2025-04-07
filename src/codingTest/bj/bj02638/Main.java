@@ -25,7 +25,6 @@ public class Main {
  
         int hours = 0;
         while (true) {
-            // BFS to mark outside air (starting from (0,0))
             boolean[][] visited = new boolean[N][M];
             Queue<Point> queue = new LinkedList<>();
             queue.offer(new Point(0, 0));
@@ -43,14 +42,13 @@ public class Main {
                         continue;
                     }
                     if (board[nr][nc] == 1) {
-                        continue; // cheese cell, not air
+                        continue;
                     }
                     visited[nr][nc] = true;
                     queue.offer(new Point(nr, nc));
                 }
             }
  
-            // Find cheese cells to melt (if 2 or more adjacent sides are in contact with outside air)
             ArrayList<Point> meltList = new ArrayList<>();
             for (int i = 0; i < N; i++) {
                 for (int j = 0; j < M; j++) {
@@ -76,7 +74,6 @@ public class Main {
                 break;
             }
  
-            // Melt marked cheese cells
             for (Point p : meltList) {
                 board[p.r][p.c] = 0;
             }
