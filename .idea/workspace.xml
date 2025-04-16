@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_홀짝트리">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_사라진 발판">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +37,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PerforceDirect.Settings">
-    <option name="CHARSET" value="없음" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -55,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250328_0000",
+    "com.google.cloudcode.ide_session_index": "20250416_0000",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -395,6 +392,7 @@
       <workItem from="1742044855989" duration="24182000" />
       <workItem from="1742563720378" duration="21561000" />
       <workItem from="1742998292148" duration="44917000" />
+      <workItem from="1744723716227" duration="10901000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -739,7 +737,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="250" />
+    <option name="localTasksCounter" value="251" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -757,7 +755,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_완점범죄" />
     <MESSAGE value="pro_택배 배달과 수거하기" />
     <MESSAGE value="pro_k진수에서 소수 개수 구하기" />
     <MESSAGE value="pro_파괴되지 않은 건물" />
@@ -782,7 +779,8 @@
     <MESSAGE value="pro_수레 움직이기" />
     <MESSAGE value="pro_" />
     <MESSAGE value="pro_홀짝트리" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_홀짝트리" />
+    <MESSAGE value="pro_사라진 발판" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_사라진 발판" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
