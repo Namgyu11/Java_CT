@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_사라진 발판">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_04/ct02/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_04/ct02/ct04/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_04/ct02/ct04/ct05/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_04/ct03/ct04/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_04/ct03/ct04/ct03/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/preCT_02/preCT_04/ct03/ct04/ct05/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +43,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="없음" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -56,7 +65,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_03/preCT_03_05/ct04",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_02/preCT_04/ct02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,11 +111,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_02\preCT_04\ct02" />
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_02\preCT_04\ct03" />
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_02\preCT_04\ct04" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_05\ct04" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_05\ct05" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_04" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_05" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\pro" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -392,7 +401,7 @@
       <workItem from="1742044855989" duration="24182000" />
       <workItem from="1742563720378" duration="21561000" />
       <workItem from="1742998292148" duration="44917000" />
-      <workItem from="1744723716227" duration="10901000" />
+      <workItem from="1744723716227" duration="13812000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -737,7 +746,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="251" />
+    <option name="localTasksCounter" value="252" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -777,10 +786,10 @@
     <MESSAGE value="pro_주사위 고르기" />
     <MESSAGE value="pro_수식 복원하기" />
     <MESSAGE value="pro_수레 움직이기" />
-    <MESSAGE value="pro_" />
     <MESSAGE value="pro_홀짝트리" />
     <MESSAGE value="pro_사라진 발판" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_사라진 발판" />
+    <MESSAGE value="pro_" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
