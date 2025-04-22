@@ -1,4 +1,4 @@
-package codingTest.programmers.lv3.표현가능한이진트리;
+package codingTest.preCT_03.preCT_03_01.표현가능한이진트리;
 
 
 public class Solution {
@@ -40,6 +40,5 @@ public class Solution {
         }
 
         return isValidTree(binary, start, mid - 1) && isValidTree(binary, mid + 1, end);
-
     }
 }
