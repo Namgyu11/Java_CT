@@ -8,7 +8,7 @@ class Solution {
         boolean[][] beam   = new boolean[n+1][n+1];
         for (int[] cmd : build_frame) {
             int x = cmd[0], y = cmd[1], a = cmd[2], b = cmd[3];
-            if (b == 1) { // 설치
+            if (b == 1) {
                 if (a == 0) {
                     pillar[x][y] = true;
                 } else {
@@ -21,7 +21,7 @@ class Solution {
                         beam[x][y] = false;
                     }
                 }
-            } else { // 삭제
+            } else {
                 if (a == 0) {
                     pillar[x][y] = false;
                 } else {
@@ -78,15 +78,12 @@ class Solution {
     }
     
     private boolean canInstallPillar(int x, int y, boolean[][] pillar, boolean[][] beam) {
-        // 바닥 위
         if (y == 0) {
             return true;
         }
-        // 보의 한쪽 끝 위
         if (beam[x][y] || (x > 0 && beam[x - 1][y])) {
             return true;
         }
-        // 다른 기둥 위
         if (y > 0 && pillar[x][y - 1]) {
             return true;
         }
@@ -94,12 +91,10 @@ class Solution {
     }
     
     private boolean canInstallBeam(int x, int y, boolean[][] pillar, boolean[][] beam) {
-        // 한쪽 끝에 기둥
         if ((y > 0 && pillar[x][y - 1]) || (y > 0 && x + 1 < pillar.length && pillar[x + 1][y
                 - 1])) {
             return true;
         }
-        // 양쪽 끝에 보
         if (x > 0 && x + 1 < beam.length && beam[x - 1][y] && beam[x + 1][y]) {
             return true;
         }
