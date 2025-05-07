@@ -17,7 +17,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             nodes.add(new Node(nodeinfo[i][0], nodeinfo[i][1], i + 1));
         }
-        // y 내림차순, x 오름차순
         nodes.sort((a, b) -> b.y != a.y ? b.y - a.y : a.x - b.x);
         Node root = nodes.get(0);
         for (int i = 1; i < n; i++) {
