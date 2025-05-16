@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +40,6 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2TmCBlU1BVbFr1Sbu8kiS50lIoX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -51,12 +48,13 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.google.cloudcode.ide_session_index": "20250512_0000",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_03/preCT_03_01/표현가능한이진트리/연속펄스부분수열의합",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_03/preCT_03_01/ct05",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,11 +100,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\ct05" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\표현가능한이진트리\연속펄스부분수열의합" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_05" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\표현가능한이진트리" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_02\preCT_04\ct02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -198,8 +196,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18968.26" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18968.26" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
       </set>
     </attachedChunks>
   </component>
@@ -397,6 +395,7 @@
       <workItem from="1746801250350" duration="8208000" />
       <workItem from="1746975342513" duration="261000" />
       <workItem from="1746975631632" duration="248000" />
+      <workItem from="1747228878013" duration="12680000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -741,7 +740,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="260" />
+    <option name="localTasksCounter" value="262" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -759,7 +758,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_광고 삽입" />
     <MESSAGE value="pro_퍼즐 게임 챌린지" />
     <MESSAGE value="pro_순위 검색" />
     <MESSAGE value="pro_이모티콘 할인행사" />
@@ -783,6 +781,7 @@
     <MESSAGE value="pro_표현 가능한 이진트리" />
     <MESSAGE value="pro_뉴스 클러스터링" />
     <MESSAGE value="pro_오픈 채팅방" />
+    <MESSAGE value="pro_후보키" />
     <MESSAGE value="pro_" />
     <option name="LAST_COMMIT_MESSAGE" value="pro_" />
   </component>
