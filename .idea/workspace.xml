@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_디스크 컨트롤러">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/programmers/lv3/경주로_건설/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_경주로 건설" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -401,7 +398,7 @@
       <workItem from="1747228878013" duration="12680000" />
       <workItem from="1747576792546" duration="16148000" />
       <workItem from="1748356603817" duration="25353000" />
-      <workItem from="1749307120067" duration="6779000" />
+      <workItem from="1749307120067" duration="10718000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -746,7 +743,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="270" />
+    <option name="localTasksCounter" value="271" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -764,7 +761,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_코딩 테스트 공부" />
     <MESSAGE value="pro_봉인된 주문" />
     <MESSAGE value="pro_산 모양 타일" />
     <MESSAGE value="pro_두 큐 합 같게 만들기" />
@@ -789,7 +785,8 @@
     <MESSAGE value="pro_징검다리 건너기" />
     <MESSAGE value="pro_입국 심사" />
     <MESSAGE value="pro_디스크 컨트롤러" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_디스크 컨트롤러" />
+    <MESSAGE value="pro_경주로 건설" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_경주로 건설" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
