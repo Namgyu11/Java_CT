@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_매칭 점수">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_숫자 타자 대회" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_03/preCT_03_01/ct01",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_03/preCT_03_01/ct02/ct03",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,11 +100,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\ct02\ct03" />
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\ct02" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\ct01" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\ct04" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\ct05" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\표현가능한이진트리\연속펄스부분수열의합" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -402,7 +400,7 @@
       <workItem from="1748356603817" duration="25353000" />
       <workItem from="1749307120067" duration="10718000" />
       <workItem from="1749735483085" duration="6321000" />
-      <workItem from="1749906601612" duration="24827000" />
+      <workItem from="1749906601612" duration="28895000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -747,7 +745,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="283" />
+    <option name="localTasksCounter" value="285" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -765,7 +763,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_수식 복원하기" />
     <MESSAGE value="pro_수레 움직이기" />
     <MESSAGE value="pro_홀짝트리" />
     <MESSAGE value="pro_사라진 발판" />
@@ -788,9 +785,10 @@
     <MESSAGE value="pro_등대" />
     <MESSAGE value="pro_억억단을 외우자" />
     <MESSAGE value="pro_공 이동 시뮬레이션" />
-    <MESSAGE value="pro_" />
     <MESSAGE value="pro_매칭 점수" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_매칭 점수" />
+    <MESSAGE value="pro_" />
+    <MESSAGE value="pro_숫자 타자 대회" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_숫자 타자 대회" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
