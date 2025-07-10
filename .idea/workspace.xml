@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_등굣길">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_거스름돈" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250709_0000",
+    "com.google.cloudcode.ide_session_index": "20250709_0002",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -407,6 +405,7 @@
       <workItem from="1751639884412" duration="101000" />
       <workItem from="1751725605856" duration="112000" />
       <workItem from="1752066345933" duration="612000" />
+      <workItem from="1752070244793" duration="2466000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -751,7 +750,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="290" />
+    <option name="localTasksCounter" value="291" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -769,7 +768,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_표현 가능한 이진트리" />
     <MESSAGE value="pro_뉴스 클러스터링" />
     <MESSAGE value="pro_오픈 채팅방" />
     <MESSAGE value="pro_후보키" />
@@ -794,7 +792,8 @@
     <MESSAGE value="pro_최고의 집합" />
     <MESSAGE value="pro_숫자 게임" />
     <MESSAGE value="pro_등굣길" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_등굣길" />
+    <MESSAGE value="pro_거스름돈" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_거스름돈" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
