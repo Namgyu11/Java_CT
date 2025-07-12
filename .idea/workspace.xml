@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_거스름돈" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -405,7 +405,7 @@
       <workItem from="1751639884412" duration="101000" />
       <workItem from="1751725605856" duration="112000" />
       <workItem from="1752066345933" duration="612000" />
-      <workItem from="1752070244793" duration="2466000" />
+      <workItem from="1752070244793" duration="4958000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -750,7 +750,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="291" />
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -768,7 +768,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_뉴스 클러스터링" />
     <MESSAGE value="pro_오픈 채팅방" />
     <MESSAGE value="pro_후보키" />
     <MESSAGE value="pro_블록 이동하기" />
@@ -788,12 +787,13 @@
     <MESSAGE value="pro_매칭 점수" />
     <MESSAGE value="pro_숫자 타자 대회" />
     <MESSAGE value="pro_금과 은 운반하기" />
-    <MESSAGE value="pro_" />
     <MESSAGE value="pro_최고의 집합" />
     <MESSAGE value="pro_숫자 게임" />
     <MESSAGE value="pro_등굣길" />
     <MESSAGE value="pro_거스름돈" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_거스름돈" />
+    <MESSAGE value="pro_선입 선출 스케줄링" />
+    <MESSAGE value="pro_" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
