@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_">
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/NoLinearDS_02Bst/bst_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/NoLinearDS_02Bst/bst_01/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/NoLinearDS_02Bst/bst_02/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/NoLinearDS_02Bst/bst_02/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/NoLinearDS_02Bst/bst_03/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/NoLinearDS_02Bst/test/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/NoLinearDS_02Bst/test/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parctice/NoLinearDS_01Bt/NoLinearDS_02Bst/test/Practice3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -415,7 +407,7 @@
       <workItem from="1751639884412" duration="101000" />
       <workItem from="1751725605856" duration="112000" />
       <workItem from="1752066345933" duration="612000" />
-      <workItem from="1752070244793" duration="7490000" />
+      <workItem from="1752070244793" duration="12403000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -760,7 +752,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <option name="localTasksCounter" value="295" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
