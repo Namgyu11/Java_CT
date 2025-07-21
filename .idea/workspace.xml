@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -45,68 +45,68 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250709_0002",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/parctice/NoLinearDS_01Bt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.32983682",
-    "settings.editor.selected.configurable": "configurable.group.tools",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Main.executor": "Run",
-    "애플리케이션.Solution.executor": "Debug",
-    "애플리케이션.codingTest.CT.CT19.ct03.Solution.executor": "Run",
-    "애플리케이션.codingTest.CT.CT19.ct05.Solution.executor": "Run",
-    "애플리케이션.codingTest.CT.CT22.ct01.Solution.executor": "Run",
-    "애플리케이션.codingTest.CT.CT_month_05.ct01.Solution.executor": "Run",
-    "애플리케이션.inflearn.session02.ct02.Main.executor": "Run",
-    "애플리케이션.inflearn.session02.ct03.Main.executor": "Run",
-    "애플리케이션.inflearn.session02.ct05.Main.executor": "Run",
-    "애플리케이션.inflearn.session02.ct07.Main.executor": "Run",
-    "애플리케이션.inflearn.session02.ct08.Main.executor": "Run",
-    "애플리케이션.inflearn.session03.ct02.Main.executor": "Run",
-    "애플리케이션.inflearn.session03.ct06.Main.executor": "Run",
-    "애플리케이션.inflearn.session03.ct09.Main.executor": "Run",
-    "애플리케이션.ktb_ct.week01.ct01.Main.executor": "Run",
-    "애플리케이션.ktb_ct.week01.ct02.Main.executor": "Run",
-    "애플리케이션.ktb_ct.week01.ct03.Main.executor": "Run",
-    "애플리케이션.ktb_ct.week01.ct04.Main.executor": "Run",
-    "애플리케이션.ktb_ct.week02.ct01.Main.executor": "Run",
-    "애플리케이션.ktb_ct.week03.ct04.Main.executor": "Run",
-    "애플리케이션.ktb_ct.week04.ct01.Main.executor": "Run",
-    "애플리케이션.ktb_ct.week05.ct02.Main.executor": "Run",
-    "애플리케이션.ktb_ct.week06.ct02.Main.executor": "Run",
-    "애플리케이션.studyCT.CT03.ct01.Solution.executor": "Run",
-    "애플리케이션.studyCT.CT08.Solution.executor": "Run",
-    "애플리케이션.studyCT.CT09.ct01.Main.executor": "Run",
-    "애플리케이션.studyCT.CT09.ct02.Main.executor": "Run",
-    "애플리케이션.studyCT.CT10.ct02.Main.executor": "Run",
-    "애플리케이션.studyCT.CT11.ct02.Main.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20250721_0001&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hagaj/Desktop/namgyu/Java_CT/src/codingTest/preCT_03/preCT_03_01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.32983682&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Solution.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.codingTest.CT.CT19.ct03.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.codingTest.CT.CT19.ct05.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.codingTest.CT.CT22.ct01.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.codingTest.CT.CT_month_05.ct01.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.inflearn.session02.ct02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.inflearn.session02.ct03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.inflearn.session02.ct05.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.inflearn.session02.ct07.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.inflearn.session02.ct08.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.inflearn.session03.ct02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.inflearn.session03.ct06.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.inflearn.session03.ct09.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ktb_ct.week01.ct01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ktb_ct.week01.ct02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ktb_ct.week01.ct03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ktb_ct.week01.ct04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ktb_ct.week02.ct01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ktb_ct.week03.ct04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ktb_ct.week04.ct01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ktb_ct.week05.ct02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ktb_ct.week06.ct02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.studyCT.CT03.ct01.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.studyCT.CT08.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.studyCT.CT09.ct01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.studyCT.CT09.ct02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.studyCT.CT10.ct02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.studyCT.CT11.ct02.Main.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01" />
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_02" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\parctice\NoLinearDS_01Bt" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\표현가능한이진트리" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\ct02\ct03" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\ct02" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\ct01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -198,8 +198,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
       </set>
     </attachedChunks>
   </component>
@@ -407,7 +407,10 @@
       <workItem from="1751639884412" duration="101000" />
       <workItem from="1751725605856" duration="112000" />
       <workItem from="1752066345933" duration="612000" />
-      <workItem from="1752070244793" duration="12403000" />
+      <workItem from="1752070244793" duration="27978000" />
+      <workItem from="1753104874369" duration="217000" />
+      <workItem from="1753105147905" duration="146000" />
+      <workItem from="1753105583781" duration="179000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -752,7 +755,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="295" />
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -770,11 +773,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_오픈 채팅방" />
-    <MESSAGE value="pro_후보키" />
-    <MESSAGE value="pro_블록 이동하기" />
-    <MESSAGE value="pro_스티커 모으기 2" />
-    <MESSAGE value="pro_징검다리 건너기" />
     <MESSAGE value="pro_입국 심사" />
     <MESSAGE value="pro_디스크 컨트롤러" />
     <MESSAGE value="pro_경주로 건설" />
@@ -794,6 +792,11 @@
     <MESSAGE value="pro_등굣길" />
     <MESSAGE value="pro_거스름돈" />
     <MESSAGE value="pro_선입 선출 스케줄링" />
+    <MESSAGE value="pro_도둑질" />
+    <MESSAGE value="pro_호텔 방 배정" />
+    <MESSAGE value="pro_무지 먹방" />
+    <MESSAGE value="pro_올바른 괄호 갯수" />
+    <MESSAGE value="pro_쿠키 구입" />
     <MESSAGE value="pro_" />
     <option name="LAST_COMMIT_MESSAGE" value="pro_" />
   </component>
