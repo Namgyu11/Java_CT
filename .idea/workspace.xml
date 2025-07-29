@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_가사 검색" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_정수 삼각형" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -410,6 +410,7 @@
       <workItem from="1753105147905" duration="146000" />
       <workItem from="1753105583781" duration="608000" />
       <workItem from="1753193669171" duration="3829000" />
+      <workItem from="1753624968520" duration="5313000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -754,7 +755,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="305" />
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -772,7 +773,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_보행자 천국" />
     <MESSAGE value="pro_N으로 표현" />
     <MESSAGE value="pro_모두 0으로 만들기" />
     <MESSAGE value="pro_최적의 행렬 곱셈" />
@@ -793,11 +793,12 @@
     <MESSAGE value="pro_무지 먹방" />
     <MESSAGE value="pro_올바른 괄호 갯수" />
     <MESSAGE value="pro_쿠키 구입" />
-    <MESSAGE value="pro_" />
     <MESSAGE value="pro_자동 완성" />
     <MESSAGE value="pro_징검 다리" />
     <MESSAGE value="pro_가사 검색" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_가사 검색" />
+    <MESSAGE value="pro_" />
+    <MESSAGE value="pro_정수 삼각형" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_정수 삼각형" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
