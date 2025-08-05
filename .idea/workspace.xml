@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_사칙연산">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -413,7 +413,7 @@
       <workItem from="1753105583781" duration="608000" />
       <workItem from="1753193669171" duration="3829000" />
       <workItem from="1753624968520" duration="5313000" />
-      <workItem from="1753792856961" duration="15134000" />
+      <workItem from="1753792856961" duration="22932000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -758,7 +758,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="313" />
+    <option name="localTasksCounter" value="314" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -776,7 +776,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pro_억억단을 외우자" />
     <MESSAGE value="pro_공 이동 시뮬레이션" />
     <MESSAGE value="pro_매칭 점수" />
     <MESSAGE value="pro_숫자 타자 대회" />
@@ -801,7 +800,8 @@
     <MESSAGE value="pro_지형 편집" />
     <MESSAGE value="pro_동굴 탐험" />
     <MESSAGE value="pro_" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_" />
+    <MESSAGE value="pro_사칙연산" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_사칙연산" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
