@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_사칙연산">
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/parctice/linearDS_02",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/ktb_ct/week02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,11 +102,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\ktb_ct\week02" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\parctice\linearDS_02" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_02" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\parctice\NoLinearDS_01Bt" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\codingTest\preCT_03\preCT_03_01\표현가능한이진트리" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -413,7 +413,7 @@
       <workItem from="1753105583781" duration="608000" />
       <workItem from="1753193669171" duration="3829000" />
       <workItem from="1753624968520" duration="5313000" />
-      <workItem from="1753792856961" duration="22932000" />
+      <workItem from="1753792856961" duration="32475000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -758,7 +758,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="314" />
+    <option name="localTasksCounter" value="315" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -799,9 +799,9 @@
     <MESSAGE value="pro_블록 게임" />
     <MESSAGE value="pro_지형 편집" />
     <MESSAGE value="pro_동굴 탐험" />
-    <MESSAGE value="pro_" />
     <MESSAGE value="pro_사칙연산" />
-    <option name="LAST_COMMIT_MESSAGE" value="pro_사칙연산" />
+    <MESSAGE value="pro_" />
+    <option name="LAST_COMMIT_MESSAGE" value="pro_" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
