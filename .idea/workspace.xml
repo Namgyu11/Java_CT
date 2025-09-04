@@ -54,7 +54,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/inflearn/session02/ct01",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/inflearn/session02/ct03",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -100,11 +100,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\inflearn\session02\ct03" />
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\inflearn\session02\ct02" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\inflearn\session02\ct01" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\inflearn\session03\ct01" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\ktb_ct\week04" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\ktb_ct\week03" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\ktb_ct\week02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -415,6 +415,7 @@
       <workItem from="1754576414791" duration="27712000" />
       <workItem from="1755870919994" duration="13268000" />
       <workItem from="1756648386843" duration="9190000" />
+      <workItem from="1756738362681" duration="6666000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -759,7 +760,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="324" />
+    <option name="localTasksCounter" value="326" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
