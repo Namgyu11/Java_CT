@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_">
-      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week02/ct01/가사검색/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week02/ct01/단어_퍼즐/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week02/ct01/도둑질/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week02/ct01/동굴탐험/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week02/ct01/동영상_재생기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ktb_ct/week02/ct01/무지_먹방/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -427,7 +419,7 @@
       <workItem from="1757168830032" duration="408000" />
       <workItem from="1757425386411" duration="5296000" />
       <workItem from="1757660187032" duration="17000" />
-      <workItem from="1758032682631" duration="9179000" />
+      <workItem from="1758032682631" duration="9442000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -772,7 +764,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="330" />
+    <option name="localTasksCounter" value="331" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
