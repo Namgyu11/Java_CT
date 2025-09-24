@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_" />
+    <list default="true" id="0a484f07-d990-46d9-8e32-ddd9360133d0" name="변경" comment="pro_">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +56,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/ktb_ct/week02/ct01",
+    "last_opened_file_path": "C:/Users/hagaj/Desktop/namgyu/Java_CT/src/ktb_ct/week02/ct02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -100,11 +102,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\ktb_ct\week02\ct02" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\ktb_ct\week02\ct01" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\ktb_ct\week02\ct03" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\inflearn\session02\ct07" />
       <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\inflearn\session02\ct09" />
-      <recent name="C:\Users\hagaj\Desktop\namgyu\Java_CT\src\inflearn\session02\ct03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hagaj\Desktop\냄규\Java_CT\src\parctice\NoLinearDS_01\test" />
@@ -420,6 +422,7 @@
       <workItem from="1757425386411" duration="5296000" />
       <workItem from="1757660187032" duration="17000" />
       <workItem from="1758032682631" duration="9442000" />
+      <workItem from="1758290889459" duration="2354000" />
     </task>
     <task id="LOCAL-00042" summary="pre01">
       <created>1695725677312</created>
@@ -764,7 +767,7 @@
       <option name="project" value="LOCAL" />
       <updated>1706964625762</updated>
     </task>
-    <option name="localTasksCounter" value="331" />
+    <option name="localTasksCounter" value="332" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
